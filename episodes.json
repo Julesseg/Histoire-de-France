@@ -1,0 +1,549 @@
+{
+  "titre_site": "Histoire de France",
+  "sous_titre": "Un épisode par soir",
+  "episodes": [
+    {
+      "numero": 1,
+      "date": "2026-07-30",
+      "slug": "alesia",
+      "titre": "Le siège d'Alésia",
+      "periode": "Gaule romaine · 52 av. J.-C.",
+      "siecle_cle": "-52",
+      "recit": [
+        "Fin de l'été 52 avant notre ère, sur le mont Auxois, en Bourgogne. Quatre-vingt mille combattants gaulois sont enfermés dans l'oppidum (ville fortifiée établie sur une hauteur) avec les habitants du lieu, les Mandubiens, et il ne reste presque plus de grain. En contrebas, César a fait creuser deux lignes de fortifications : une contrevallation (levée de terre tournée vers la place assiégée, pour empêcher les sorties) et, quelques centaines de mètres derrière, une circonvallation (la même chose, mais tournée vers la campagne, pour arrêter les renforts). Ses légions campent entre les deux, prises en tenaille par avance.",
+        "Le conseil des assiégés se réunit. Un Arverne nommé Critognatos propose de manger ceux qui ne peuvent plus se battre ; le discours, rapporté par César seul, est peut-être une reconstruction littéraire, et les historiens en discutent encore. On retient une autre solution : chasser de la ville les Mandubiens, qui l'avaient pourtant ouverte. Femmes, enfants, vieillards descendent vers les lignes romaines et demandent qu'on les prenne comme esclaves — au moins seraient-ils nourris. César refuse d'ouvrir. Ils restent là, entre les deux murailles, sous les yeux des leurs, et ils y meurent.",
+        "L'armée de secours attaque enfin, trois jours durant. Le troisième, Vercassivellaunos, cousin de Vercingétorix, trouve le point faible : un camp mal fermé, au nord, sur une pente que la fortification n'épousait pas. César, repérable à son manteau rouge, y jette ses dernières réserves, puis lance la cavalerie germaine à revers. Les secours se débandent dans la nuit.",
+        "Le lendemain, Vercingétorix parle à l'assemblée : il n'a pas fait cette guerre pour lui, dit-il, mais pour la liberté commune ; qu'on le tue, ou qu'on le livre. On le livre. Il passera environ cinq ans dans une cellule romaine avant d'être exécuté après le triomphe de César (défilé de victoire à travers Rome), en 46."
+      ],
+      "chute": "Le récit scolaire aime la scène des armes jetées aux pieds du vainqueur : elle vient de Plutarque et de Florus, puis d'un tableau de 1899 — chez César, la reddition tient en trois lignes parfaitement plates.",
+      "ressources": [
+        {
+          "titre": "César, <i>Guerre des Gaules</i>, VII, 87-89 — texte latin et traduction",
+          "url": "https://pegasus-pedagogie.web.ac-grenoble.fr/sites/default/files/inline-images/gPAo4sKPISVermNTbt25PIz1pHOml15XqqJl3J6djYZ7Hdw8dB.pdf",
+          "note": "La source unique, en version bilingue : trois pages pour lire soi-même à quel point César expédie la reddition qu'on a mise en tableau."
+        },
+        {
+          "titre": "Michel Reddé, « Autour d'Alésia » (Ausonius Éditions, 2022)",
+          "url": "https://una-editions.fr/autour-alesia-introduction/",
+          "note": "Le directeur des fouilles franco-allemandes du Mont-Auxois raconte en accès libre ce que l'archéologie a réellement établi — et pourquoi la querelle de localisation est close."
+        },
+        {
+          "titre": "« Alésia, de la controverse à la preuve » — <i>Paroles d'histoire</i>, épisode 26",
+          "url": "https://parolesdhistoire.fr/index.php/2018/10/24/26-alesia-avec-vivien-barriere-et-clement-salviani/",
+          "note": "Une heure avec deux archéologues sur la méthode : comment on prouve qu'un champ de Côte-d'Or est bien celui de 52, face aux thèses concurrentes."
+        },
+        {
+          "titre": "Christian-Georges Schwentzel, « Vercingétorix contre César : la propagande romaine de <i>La Guerre des Gaules</i> »",
+          "url": "https://theconversation.com/vercingetorix-contre-cesar-la-propagande-romaine-de-la-guerre-des-gaules-199546",
+          "note": "Court et net : pourquoi César avait besoin d'un adversaire à sa mesure, et comment il l'a fabriqué."
+        },
+        {
+          "titre": "Christian Goudineau, <i>Le Dossier Vercingétorix</i>, Actes Sud / Errance, 2001",
+          "url": null,
+          "note": "Le livre de référence pour démonter, dossier par dossier, ce que la III<sup>e</sup> République a projeté sur un chef arverne dont on ignore presque tout."
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "date": "2026-07-31",
+      "slug": "clovis",
+      "titre": "Le baptême de Clovis, ou la nuit dont personne ne connaît la date",
+      "chapo": "Un seul document contemporain, écrit par un homme qui n'y était pas.",
+      "periode": "Gaule franque · fin du V<sup>e</sup> siècle",
+      "recit": [
+        "Le seul témoin contemporain du baptême de Clovis n'y assistait pas. Avit, évêque de Vienne, en pays burgonde, prend la plume pour féliciter le roi des Francs : quelques lignes ornées, adressées de loin, et c'est tout ce que le V<sup>e</sup> siècle nous a laissé de l'événement. Il évoque une nuit de Noël, des évêques rassemblés, un roi qui a tenu bon contre ceux qui voulaient l'attirer vers l'arianisme <span class=\"glose\">(courant chrétien qui refusait de tenir le Christ pour l'égal de Dieu le Père, dominant alors chez les rois germaniques)</span>. Il ne nomme ni Reims, ni Rémi, ni l'année. Tout le reste — la cathédrale, la foule, la colombe — a été ajouté après coup.",
+        "Quatre-vingts ans plus tard, Grégoire de Tours écrit la scène que nous croyons connaître. Clotilde, la reine burgonde, presse son mari ; Clovis résiste ; puis, sur le champ de bataille de Tolbiac, l'armée franque plie devant les Alamans et le roi jure de se faire chrétien si ce Dieu-là lui donne la victoire. Il gagne. À Reims, Rémi le baptise avec la formule que des générations d'écoliers ont récitée : « Dépose humblement tes colliers, Sicambre <span class=\"glose\">(nom d'un ancien peuple germanique, employé ici comme synonyme savant de « Franc »)</span> ; adore ce que tu as brûlé, brûle ce que tu as adoré. » Trois mille guerriers, dit Grégoire, entrent dans l'eau à sa suite — chiffre que les historiens lisent comme un emprunt aux Actes des Apôtres, la cuve baptismale retrouvée à Reims tenant à peine trois personnes.",
+        "Sur la date, les spécialistes ne s'accordent pas : 496 pour la tradition, 498 ou 499 pour beaucoup, 505 pour Bruno Dumézil, 508 pour Danuta Shanzer. Quant à la sainte ampoule et à sa colombe, elles sont l'invention d'Hincmar, archevêque de Reims, vers 877 — près de quatre siècles après."
+      ],
+      "chute": "Ce que l'école appelle « le baptême de la France » n'a guère ému les contemporains : c'est la postérité qui, chaque fois qu'elle a eu besoin d'un commencement, a transformé ce fait divers diplomatique en acte de naissance.",
+      "ressources": [
+        {
+          "titre": "Grégoire de Tours, <i>Histoire des Francs</i>, livre II",
+          "url": "https://remacle.org/bloodwolf/historiens/gregoire/francs2.htm",
+          "note": "La source primaire en traduction française intégrale : on y voit Grégoire construire son récit, et on mesure ce qu'il invente d'ordre là où il n'a que des souvenirs."
+        },
+        {
+          "titre": "Danuta Shanzer, « Dating the Baptism of Clovis: the Bishop of Vienne vs the Bishop of Tours » (PDF)",
+          "url": "https://www2.ulpgc.es/hege/almacen/download/30/30074/clodoveo.pdf",
+          "note": "L'article qui a rouvert la querelle de datation : une démonstration serrée, en anglais et en accès libre, sur ce que la lettre d'Avit permet et ne permet pas de conclure."
+        },
+        {
+          "titre": "Bruno Dumézil, « Paris au temps de Clovis et de sainte Geneviève » (conférence filmée, 1 h)",
+          "url": "https://www.canal-u.tv/chaines/iea-de-paris/paris-au-temps-de-clovis-et-de-sainte-genevieve",
+          "note": "Le meilleur spécialiste actuel raconte le monde autour du baptême — le choix de Paris, Geneviève, la fabrique d'une capitale — librement accessible sur Canal-U."
+        },
+        {
+          "titre": "Pierrick Banchereau, compte rendu du <i>Baptême de Clovis</i> (La Cliothèque)",
+          "url": "https://clio-cr.clionautes.org/le-bapteme-de-clovis-24-decembre-505.html",
+          "note": "Dix minutes pour savoir comment un historien démonte chaque date possible avant d'en risquer une, et comment Clovis a servi tour à tour de modèle et d'épouvantail."
+        },
+        {
+          "titre": "Bruno Dumézil, <i>Le Baptême de Clovis. 24 décembre 505 ?</i>, Gallimard, coll. « Les journées qui ont fait la France », 2019",
+          "url": null,
+          "note": "Le livre de référence, et le seul dont le titre porte son propre point d'interrogation : l'enquête complète sur une journée qu'on ne sait pas dater."
+        }
+      ]
+    },
+    {
+      "date": "2026-08-01",
+      "slug": "jeanne-darc",
+      "titre": "Jeanne d'Arc : le procès qui visait un roi",
+      "chapo": "Rouen, 1431 : pour défaire un roi couronné à Reims, il fallait prouver que Dieu n'y était pour rien.",
+      "periode": "Guerre de Cent Ans · 1431",
+      "recit": [
+        "En 1420, à Troyes, Charles VI déshérite son propre fils : la couronne de France ira au roi d'Angleterre, qui vient d'épouser sa fille. Deux ans plus tard les deux rois meurent, un nourrisson hérite des deux royaumes, et son oncle Bedford gouverne la France anglaise depuis Rouen. Le dauphin tient le sud de la Loire, mais il n'est pas sacré <span class=\"glose\">(oint à Reims, ce qui seul faisait un roi légitime)</span> : un prétendant. En juillet 1429, une paysanne de dix-sept ans l'y mène et l'y fait couronner. Le problème anglais cesse d'être militaire : il devient théologique.",
+        "D'où le procès. Capturée devant Compiègne en mai 1430 par les Bourguignons, Jeanne est vendue aux Anglais en novembre pour dix mille livres tournois. Celui qui la réclame est Pierre Cauchon, évêque de Beauvais — un évêque sans ville, chassé de son diocèse l'an passé par les partisans de Charles VII. Négociateur du traité de Troyes, il doit sa carrière aux Bourguignons puis aux Anglais ; Compiègne relevant de son diocèse, il y trouve son titre à juger. Il obtiendra Lisieux en récompense.",
+        "Un tribunal militaire n'aurait fait d'elle qu'une prisonnière de guerre. Seule l'Église, compétente en matière d'hérésie, pouvait en faire une sorcière — et rendre frauduleux le sacre qu'elle avait obtenu. Une centaine de clercs y participent, presque tous français, adossés à l'avis de l'université de Paris. La procédure garde les formes et viole l'essentiel : jugée par l'Église, Jeanne reste détenue dans une prison anglaise, au mépris du droit canon.",
+        "Le 24 mai, devant le bûcher, elle abjure <span class=\"glose\">(renie ses erreurs)</span> et reprend des vêtements de femme. Quelques jours plus tard on la retrouve en habit d'homme : relapse <span class=\"glose\">(retombée dans une faute déjà reniée)</span>, et le droit ne laisse plus qu'une issue. Piège des gardiens ou refus assumé, les historiens en débattent. Elle brûle le 30 mai. En 1456, l'Église annule le procès à la demande de Charles VII : le sacre redevenait propre."
+      ],
+      "chute": "On retient les voix et on retient l'Anglais ; le dossier montre des clercs français jugeant dans les règles pour un occupant.",
+      "ressources": [
+        {
+          "titre": "« Le procès de Jeanne d'Arc » — ministère de la Justice",
+          "url": "https://www.justice.gouv.fr/actualites/actualite/proces-jeanne-darc",
+          "note": "La mécanique judiciaire expliquée pas à pas : pourquoi un tribunal d'Église, ce que change l'inquisition, et où la procédure triche."
+        },
+        {
+          "titre": "Vincent Tabbagh, « Les assesseurs du procès de condamnation de Jeanne d'Arc »",
+          "url": "https://books.openedition.org/puc/7801",
+          "note": "Le portrait collectif des cent quatre clercs qui l'ont jugée : plus de neuf sur dix diplômés d'université, une majorité de Rouennais."
+        },
+        {
+          "titre": "Jules Quicherat, <i>Procès de condamnation et de réhabilitation de Jeanne d'Arc</i>, tome I (1841)",
+          "url": "https://archive.org/details/procsdecondam01joanuoft",
+          "note": "La source primaire numérisée : les minutes du procès telles qu'un greffier les a écrites, à lire ou télécharger librement."
+        },
+        {
+          "titre": "Carl Th. Dreyer, <i>La Passion de Jeanne d'Arc</i> (1928), film muet en ligne",
+          "url": "https://archive.org/details/passion-of-joan-of-arc-the-carl-theodor-dreyer-1928",
+          "note": "Quatre-vingts minutes tirées presque mot pour mot des interrogatoires : l'archive qui a fixé le visage de Jeanne pour un siècle."
+        },
+        {
+          "titre": "Colette Beaune, <i>Jeanne d'Arc</i>, Perrin, 2004",
+          "url": null,
+          "note": "La biographie de référence, qui démonte une à une les légendes — bâtardise, survie, manipulation — accumulées depuis le XIX<sup>e</sup> siècle."
+        }
+      ],
+      "numero": 3
+    },
+    {
+      "numero": 4,
+      "date": "2026-08-02",
+      "slug": "charlemagne",
+      "titre": "Le jour où le pape se prosterna",
+      "chapo": "Rome, Noël 800 : une couronne, un titre esquivé, et une question laissée ouverte pour huit siècles.",
+      "periode": "Empire carolingien · An 800",
+      "recit": [
+        "Le 23 décembre 800, dans la basilique Saint-Pierre, le pape Léon III monte en chaire, pose la main sur les Évangiles et jure qu'il est innocent. Personne ne l'a jugé : personne, en principe, ne peut juger un pape. C'est un serment purgatoire <span class=\"glose\">(déclaration sous serment par laquelle un accusé se lave lui-même d'une accusation, faute de tribunal compétent pour l'entendre)</span>. Dix-huit mois plus tôt, le 25 avril 799, des aristocrates romains l'avaient jeté à terre au milieu d'une procession et tenté de lui crever les yeux et de lui arracher la langue. Il s'était enfui vers le nord, jusqu'à Paderborn, se remettre entre les mains du roi des Francs.",
+        "Charles est donc à Rome, arbitre d'une affaire qui ne le regarde pas et qui le regarde entièrement. Le matin de Noël, il vient prier devant la confession <span class=\"glose\">(la tombe supposée de l'apôtre Pierre, sous l'autel)</span>. Il se relève ; Léon III lui pose une couronne sur la tête. L'assistance acclame trois fois : « À Charles très pieux auguste, par Dieu couronné, grand et pacifique empereur, vie et victoire. » Puis le pape se prosterne devant lui — geste qu'aucun pape ne refera devant un laïc.",
+        "Trente ans plus tard, son biographe Éginhard rapporte que Charles aurait dit qu'il ne serait pas entré dans l'église ce jour-là, si grande fût la fête, s'il avait connu le dessein du pontife. Les historiens ne s'accordent pas sur cette phrase : agacement réel devant un cérémonial qui fait du pape le donneur d'empire, emprunt littéraire aux vies d'empereurs romains de Suétone, ou prudence calculée envers Constantinople, où régnait alors une femme, Irène.",
+        "Reste un indice que nul n'a inventé. Sa chancellerie n'écrira jamais « empereur des Romains ». Elle écrit : <i>Romanum gubernans imperium</i> — gouvernant l'empire romain. Prendre la chose sans prendre le titre."
+      ],
+      "chute": "L'école en a fait une fondation ; c'était d'abord une question laissée ouverte — qui fait l'empereur ? — que l'Europe passera huit siècles à ne pas trancher.",
+      "ressources": [
+        {
+          "titre": "L'Europe carolingienne — BnF, Les Essentiels",
+          "url": "https://essentiels.bnf.fr/fr/histoire/moyen-age/0d425ac1-723b-46c0-9bb5-e987c3725f27-periode-carolingienne-8e-9e-siecles/article/2cd4ee64-a6ea-4ca7-b343-4739c0cd13f9-europe-carolingienne",
+          "note": "Synthèse libre d'accès sur l'empire, Aix-la-Chapelle et la renaissance carolingienne, illustrée d'enluminures numérisées dans Gallica : le contexte long dans lequel Noël 800 prend son sens."
+        },
+        {
+          "titre": "Le couronnement selon le <i>Liber Pontificalis</i> — L'atelier de Clio",
+          "url": "https://damienmarcellin.wordpress.com/2017/10/20/le-couronnement-de-charlemagne-liber-pontificalis-800/",
+          "note": "La version romaine de la scène, traduite en français d'après l'édition Duchesne : on y lit l'acclamation et la prosternation du pape, telles que la papauté a voulu qu'on s'en souvienne."
+        },
+        {
+          "titre": "Éginhard, <i>Vie de Charlemagne</i>, trad. Louis Halphen (1923)",
+          "url": "https://archive.org/details/EginhardVieDeCharlemagne",
+          "note": "Le texte intégral numérisé et libre de droits : cent pages suffisent à voir comment se fabrique le portrait d'un souverain — et à lire au chapitre 28 la fameuse phrase de la surprise."
+        },
+        {
+          "titre": "« 800 — Le couronnement de Charlemagne », <i>Quand l'histoire fait dates</i>, ARTE",
+          "url": "https://www.youtube.com/watch?v=U-MxcPG0-SI",
+          "note": "26 minutes avec Patrick Boucheron et l'historien Steffen Patzold, consacrées à démonter la date elle-même : pourquoi 800 est moins un commencement qu'un recommencement."
+        },
+        {
+          "titre": "Robert Folz, <i>Le Couronnement impérial de Charlemagne, 25 décembre 800</i>, Gallimard (rééd. 1989)",
+          "url": null,
+          "note": "Le classique français sur la question : une journée reconstituée heure par heure, puis suivie dans sa postérité jusqu'à Napoléon."
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "date": "2026-08-03",
+      "slug": "bouvines",
+      "titre": "Bouvines",
+      "chapo": "Le roi à terre.",
+      "periode": "XIII<sup>e</sup> siècle · 27 juillet 1214",
+      "recit": [
+        "Ce dimanche-là, on n'aurait pas dû se battre : l'Église interdisait le combat le jour du Seigneur. Philippe Auguste, d'ailleurs, ne voulait pas de bataille rangée. Il jugeait ses barons trop peu nombreux et repliait son armée vers Lille. Le gros de l'ost <span class=\"glose\">(l'armée féodale convoquée par le roi)</span> avait déjà franchi le pont sur la Marque quand la cavalerie flamande tomba sur l'arrière-garde. Philippe fit demi-tour.",
+        "En face se tenait une coalition financée par Jean sans Terre, roi d'Angleterre, qui voulait reprendre la Normandie perdue dix ans plus tôt : l'empereur Otton IV, Ferrand de Flandre, Renaud de Dammartin comte de Boulogne, et à peu près tous les seigneurs entre l'Escaut et le Rhin. On a longtemps répété qu'ils étaient trois contre un ; Philippe Contamine et les décomptes récents donnent plutôt deux armées comparables, autour de huit mille hommes chacune.",
+        "Le moment décisif fut une humiliation. Les piétons allemands <span class=\"glose\">(les combattants à pied)</span>, armés de crochets, percèrent jusqu'au roi et le tirèrent à bas de son cheval. Un souverain dans la boue, sous les lames : Galon de Montigny agita la bannière royale, les chevaliers refluèrent, on remit Philippe en selle. Peu après, Otton fut désarçonné à son tour et quitta le champ. Ferrand, épuisé, se rendit ; on le ramena à Paris enchaîné dans une cage, et il resta plus de douze ans dans les cachots du Louvre. Renaud de Dammartin mourut en prison. Jean sans Terre, lui, rentra en Angleterre discrédité, et dut céder devant ses barons l'année suivante : ce fut la Grande Charte."
+      ],
+      "chute": "Le grand tableau de Versailles montre Philippe ôtant sa couronne pour l'offrir au plus digne — une scène forgée une génération après les faits, comme le « réveil de la nation » l'a été par les historiens du XIX<sup>e</sup> siècle : Bouvines a moins fondé la France qu'elle ne lui a fourni un décor commode à repeindre.",
+      "ressources": [
+        {
+          "titre": "Anaïs Berjouan, « Le dimanche de Bouvines » (Clio Prépas, 2017)",
+          "url": "https://clio-prepas.clionautes.org/le-dimanche-de-bouvines.html",
+          "note": "Une lecture serrée du livre de Duby : utile pour comprendre pourquoi il traite la bataille comme un fait de culture plutôt que comme une manœuvre militaire."
+        },
+        {
+          "titre": "Guillaume le Breton, <i>La Philippide</i>, livre XI",
+          "url": "https://remacle.org/bloodwolf/historiens/guillaumelebreton/philippide11.htm",
+          "note": "Le récit de Bouvines par un chapelain présent dans l'entourage du roi, en latin et en traduction : la source de tout, et son parti pris à chaque vers."
+        },
+        {
+          "titre": "Franck Ferrand, « Philippe Auguste gagne la bataille de Bouvines en 1214 »",
+          "url": "https://podcasts.apple.com/fr/podcast/philippe-auguste-gagne-la-bataille-de-bouvines-en-1214/id1434297164?i=1000697595564",
+          "note": "Vingt-cinq minutes de récit continu, pour tenir la chronologie de la campagne de 1214 sans carte sous les yeux."
+        },
+        {
+          "titre": "Compte rendu de <i>Bouvines 1214-2014. Histoire et mémoire d'une bataille</i>, dir. Pierre Monnet",
+          "url": "https://journals.openedition.org/ifha/8637",
+          "note": "Ce que la bataille est devenue de l'autre côté du Rhin — angle mort de l'historiographie française, y compris chez Duby."
+        },
+        {
+          "titre": "Georges Duby, <i>Le Dimanche de Bouvines. 27 juillet 1214</i>, 1973",
+          "url": null,
+          "note": "Le livre qui a déplacé la question : non pas ce qui s'est passé, mais ce qu'on en a dit, et pendant combien de siècles."
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "date": "2026-08-13",
+      "slug": "saint-barthelemy",
+      "titre": "La Saint-Barthélemy, ou ceux qui savaient les portes",
+      "chapo": "Paris, août 1572 : une paix scellée par un mariage, défaite en trois nuits.",
+      "periode": "Guerres de Religion · 24 août 1572",
+      "recit": [
+        "En août 1572, la France sort de dix ans de guerre civile : trois guerres depuis 1562, closes par des paix que nul ne tient. Celle de Saint-Germain, en 1570, va plus loin — elle rend aux protestants le culte et des places de sûreté <span class=\"glose\">(villes fortifiées gardées en garantie de l'accord)</span>. Charles IX a vingt-deux ans, règne depuis ses dix ans, et n'a jamais gouverné seul. Paris n'a rien signé : la ville est catholique jusqu'à l'os et tient cette paix pour une trahison. C'est pourtant là qu'on célèbre, le 18 août, le mariage censé la sceller.",
+        "Le marié est Henri de Navarre, protestant, premier prince du sang ; la mariée, Marguerite, sœur du roi. Toute la noblesse huguenote se retrouve réunie dans la ville la plus hostile du royaume. À sa tête, Gaspard de Coligny, amiral de France, chef militaire des réformés, assez écouté du jeune roi pour le pousser à la guerre contre l'Espagne aux Pays-Bas — que Catherine de Médicis, mère du roi et arbitre des factions depuis douze ans, juge suicidaire. En face, Henri de Guise, dont le père fut abattu en 1563 par un tueur protestant, et qui tient son autorité de la rue parisienne.",
+        "Le 22 août, un coup d'arquebuse blesse Coligny sans le tuer. Le soir du 23, un conseil restreint décide d'abattre les chefs huguenots ; aucun procès-verbal n'en subsiste, et c'est dans ce trou que les historiens se battent — crime d'État délibéré pour Arlette Jouanna, affolement d'un pouvoir pris de court pour d'autres. Avant l'aube, le tocsin sonne, Coligny est jeté par sa fenêtre, et la ville prend le relais.",
+        "C'est ici que le récit a changé. En suivant les tueurs dans les archives notariales, Jérémie Foa a montré qu'ils ne frappaient pas au hasard : miliciens, orfèvres, boutiquiers, ils avaient passé les années de paix à recenser et désarmer leurs voisins réformés. Ils savaient à quelle porte monter. Trois mille morts environ à Paris, plusieurs milliers en province jusqu'en octobre. Le 26 août, Charles IX se rend au Parlement et endosse tout : il avait, dit-il, déjoué un complot."
+      ],
+      "chute": "On enseigne une nuit de folie collective ; les archives montrent des hommes ordinaires qui savaient exactement où frapper, parce qu'ils avaient passé la paix à en dresser la liste.",
+      "ressources": [
+        {
+          "titre": "« Quatrième guerre de Religion et la Saint-Barthélemy (1572-1573) » — Musée protestant",
+          "url": "http://www.museeprotestant.org/notice/quatrieme-guerre-de-religion-et-la-saint-barthelemy-1572-1573/",
+          "note": "La synthèse la plus claire en accès libre pour tenir l'enchaînement : la paix de 1570, l'influence de Coligny, le massacre, puis les sièges de La Rochelle et de Sancerre."
+        },
+        {
+          "titre": "« Un massacre de proximité » — compte rendu de Jérémie Foa, <i>Tous ceux qui tombent</i> (Les Clionautes)",
+          "url": "https://www.clionautes.org/un-massacre-de-proximite-une-histoire-des-violences-de-la-saint-barthelemy-1572.html",
+          "note": "Dix minutes pour comprendre le renversement de perspective : les tueurs avaient des noms, un métier et une rue, et connaissaient leurs victimes de vue."
+        },
+        {
+          "titre": "« L'ordinaire de la Saint-Barthélemy », <i>Paroles d'histoire</i>, épisode 209",
+          "url": "https://parolesdhistoire.fr/index.php/2021/09/02/209-lordinaire-de-la-saint-barthelemy-avec-jeremie-foa/",
+          "note": "Trois quarts d'heure avec Jérémie Foa sur sa méthode : comment on retrouve, dans des inventaires après décès, l'identité de gens que personne n'avait comptés."
+        },
+        {
+          "titre": "Agrippa d'Aubigné, <i>Les Tragiques</i> (éd. 1857, numérisée)",
+          "url": "https://archive.org/details/bub_gb_v7_nGQCFIN8C",
+          "note": "La source primaire du camp des victimes, en libre téléchargement : un survivant protestant met le massacre en vers, et fixe pour trois siècles la mémoire huguenote."
+        },
+        {
+          "titre": "Arlette Jouanna, <i>La Saint-Barthélemy. Les mystères d'un crime d'État</i>, Gallimard, 2007",
+          "url": null,
+          "note": "Le livre de référence sur la décision : ce que le conseil du 23 août pouvait vouloir, et pourquoi un roi a préféré revendiquer un massacre plutôt qu'avouer l'avoir subi."
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "date": "2026-08-14",
+      "slug": "versailles",
+      "titre": "Versailles, ou le jour où le pouvoir prit une adresse",
+      "chapo": "6 mai 1682 : la cour emménage dans un chantier, et il devient impossible de compter sans y être.",
+      "periode": "Louis XIV · 6 mai 1682",
+      "recit": [
+        "Dans la nuit du 5 au 6 janvier 1649, une reine, un cardinal et un enfant de dix ans quittent le Louvre en secret pour Saint-Germain. Paris s'est soulevé contre l'impôt et contre Mazarin : le Parlement d'abord, les princes du sang ensuite. C'est la Fronde, quatre années de guerre civile dont Louis XIV sortira roi et rancunier. Il rentre en vainqueur en octobre 1652. Quand Mazarin meurt en mars 1661, il a vingt-deux ans, annonce qu'il gouvernera sans premier ministre, et n'aimera jamais la ville qui l'avait chassé.",
+        "Le lieu qu'il choisit n'a pourtant rien pour lui : un rendez-vous de chasse acheté par son père en 1632, posé sur un plateau marécageux sans eau ni perspective. Colbert, contrôleur général des finances, plaide pour le Louvre : un roi doit tenir sa capitale. Il perd. Le Nôtre draine, Le Vau puis Hardouin-Mansart bâtissent ; en 1685 le chantier occupera plus de trente-six mille hommes.",
+        "Le 6 mai 1682, la cour et le gouvernement s'installent à Versailles. Rien n'est fini : la Galerie des Glaces s'achève à peine, la chapelle attendra 1710, on emménage dans les gravats. Ce qui change n'est pas le décor, c'est que le pouvoir a désormais une adresse et qu'il faut y être. Saint-Simon, duc et pair né en 1675, a décrit le mécanisme un demi-siècle plus tard : n'ayant pas assez de faveurs réelles à distribuer, le roi <i>en substitua aux véritables d'idéales</i> — un regard, une préséance <span class=\"glose\">(le droit de passer avant les autres, qui à la cour valait titre)</span>, l'invitation à Marly, où il n'emmenait qu'une poignée d'élus. Ne pas résider devenait un démérite ; le luxe mis en honneur épuisait les fortunes.",
+        "De cette description, Norbert Elias a tiré en 1969 la thèse d'une noblesse domestiquée, désarmée par l'étiquette. Les travaux récents la corrigent : Jeroen Duindam a montré que les grands n'ont pas perdu leur pouvoir en venant à la cour, ils y ont pris les charges les plus lucratives tout en gardant gouvernements de province et commandements d'armée. La proximité du roi n'était pas une cage. C'était le marché."
+      ],
+      "chute": "Saint-Simon écrivait en duc dépossédé, qui avait besoin que sa caste eût été vaincue pour expliquer qu'elle ne gouvernât plus — et c'est son ressentiment, plus que les archives, que l'école a retenu.",
+      "ressources": [
+        {
+          "titre": "« L'histoire du château de Versailles » — BnF, Passerelles",
+          "url": "https://passerelles.essentiels.bnf.fr/fr/article/eaa026f8-9201-4d64-a4b6-ee7f95cb6fa2-histoire-chateau-versailles",
+          "note": "La synthèse la plus claire en accès libre sur les campagnes de construction, du pavillon de chasse de 1632 à la chapelle de 1710 : de quoi mesurer dans quel état on emménage en 1682."
+        },
+        {
+          "titre": "Saint-Simon, <i>Mémoires</i>, tome XII, chapitre XIX",
+          "url": "http://rouvroy.medusis.com/docs/1219.html",
+          "note": "La source primaire de tout ce qu'on croit savoir sur la cour, en texte intégral : on y lit le roi substituer aux grâces réelles des grâces « idéales », et un mémorialiste construire sa propre rancune en système."
+        },
+        {
+          "titre": "« Le Mythe de Versailles et l'Europe des cours » — Centre de recherche du château de Versailles (PDF)",
+          "url": "https://chateauversailles-recherche.fr/IMG/pdf/livret_mythe_light.pdf",
+          "note": "Le dossier de la révision historiographique en accès libre : ce que Duindam, Sabatier et Le Roy Ladurie reprochent au modèle d'Elias, et pourquoi Versailles n'a jamais été le modèle unique qu'on a dit."
+        },
+        {
+          "titre": "« Culture chez nous » et le MOOC « Louis XIV à Versailles » — Château de Versailles",
+          "url": "https://www.chateauversailles.fr/actualites/vie-domaine/culture-chez-nous",
+          "note": "Le point d'entrée gratuit vers plus de cinq cents vidéos et un cours en ligne complet sur la journée du roi et la vie de cour, pour voir les lieux dont Saint-Simon parle."
+        },
+        {
+          "titre": "Emmanuel Le Roy Ladurie, <i>Saint-Simon ou le système de la Cour</i>, Fayard, 1997",
+          "url": null,
+          "note": "Le livre qui prend Saint-Simon au sérieux comme sociologue tout en refusant de le croire sur parole : l'antidote français à la « vulgate fantasmatique » de Versailles."
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "date": "2026-08-15",
+      "slug": "edit-de-nantes",
+      "titre": "L'édit de Nantes, ou la paix en quatre textes",
+      "chapo": "Nantes, avril 1598 : la paix religieuse tient en quatre documents, dont les deux plus importants ne sont pas des lois.",
+      "periode": "Guerres de Religion · avril 1598",
+      "recit": [
+        "En 1598, la France se bat depuis trente-six ans : huit guerres civiles, un roi poignardé en 1589 — Henri III, dernier Valois, mort sans fils — et la couronne échue à son cousin Henri de Navarre, protestant. La moitié catholique du royaume refuse un roi hérétique : la Ligue, armée par l'Espagne, tient Paris et les grandes villes. Henri abjure en 1593, se fait sacrer à Chartres faute de tenir Reims, puis rachète les provinces qui résistent. En avril, il n'en reste qu'une.",
+        "Elle est aux mains de Philippe-Emmanuel de Lorraine, duc de Mercœur, fait gouverneur de Bretagne à vingt-quatre ans par Henri III, son beau-frère, et passé à la Ligue le jour où ce même roi fit assassiner son cousin Guise. Depuis Nantes, appuyé par l'Espagne, il gouvernait avec son conseil et son parlement à lui. Il ne livre pas bataille : il se vend. Le 20 mars, à Angers, il rend son gouvernement contre quatre millions de livres et les fiançailles de sa fille avec un fils naturel du roi. Le 13 avril, Henri IV entre à Nantes.",
+        "C'est là qu'il signe — non pas un texte, mais quatre. Le corps de l'édit, seul soumis aux parlements et seul déclaré perpétuel et irrévocable, ne porte aucun quantième <span class=\"glose\">(le numéro du jour dans le mois)</span> : « avril 1598 », d'où l'hésitation persistante entre le 13 et le 30. Suivent cinquante-six articles particuliers, puis deux brevets <span class=\"glose\">(lettres signées du roi seul, que les cours n'enregistrent pas et qu'un successeur peut retirer)</span>, datés du 30. Or c'est dans ce révocable que loge ce qui protège vraiment les réformés : de quoi payer leurs pasteurs, et cent cinquante places de refuge, dont une cinquantaine fortifiées — pour huit ans.",
+        "Le reste tient dans l'article premier : la mémoire de tout ce qui s'est fait depuis 1585 « demeurera éteinte et assoupie, comme de chose non advenue ». Interdiction de se souvenir, à défaut de savoir pardonner. Encore fallut-il l'imposer aux juges : le parlement de Paris céda en février 1599, celui de Rouen résista dix ans, en amendant le texte."
+      ],
+      "chute": "On l'enseigne comme l'acte de naissance de la tolérance ; c'était une amnistie assortie de garanties prêtées pour huit ans, et les rois suivants n'eurent pas besoin de le violer pour le vider — il leur suffit de reprendre ce qui n'avait jamais été donné que par brevet.",
+      "ressources": [
+        {
+          "titre": "Le texte de l'édit de Nantes, avril 1598 (PDF)",
+          "url": "https://www.dhnet.org.br/direitos/anthist/marcos/edito_nantes/texto_fr_edit_nantes.pdf",
+          "note": "La source primaire intégrale et gratuite : on y lit l'article premier ordonnant l'oubli, et l'on constate que le texte ne porte pas de jour."
+        },
+        {
+          "titre": "« La “révolution” de l'édit de Nantes » — Becedia (Bretagne Culture Diversité)",
+          "url": "https://bcd.bzh/becedia/fr/la-revolution-de-ledit-de-nantes",
+          "note": "L'article de fond le plus clair sur la négociation elle-même : la reddition payante de Mercœur, les brevets du 30 avril, et pourquoi la nouveauté est juridique avant d'être religieuse."
+        },
+        {
+          "titre": "« Le parlement de Normandie et l'édit de Nantes : une bataille de dix ans (1599-1610) », <i>Annales de Bretagne</i>",
+          "url": "https://journals.openedition.org/abpo/3115",
+          "note": "La preuve en accès libre qu'un édit signé n'est pas un édit appliqué : dix ans de guérilla procédurale d'une cour souveraine contre son roi."
+        },
+        {
+          "titre": "« L'édit de Nantes (1598) » — <i>L'Historioscope</i>, épisode 1",
+          "url": "https://cheminsdhistoire.fr/lhistorioscope01/",
+          "note": "Un podcast d'introduction en écoute libre, avec bibliographie et lien vers l'édition savante du texte par l'École des chartes."
+        },
+        {
+          "titre": "Bernard Cottret, <i>1598, l'édit de Nantes. Pour en finir avec les guerres de religion</i>, Perrin, 1997",
+          "url": null,
+          "note": "Le livre de référence, qui prend l'édit pour ce qu'il est — un traité de paix rédigé en forme de loi — plutôt que pour un manifeste de tolérance."
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "date": "2026-08-16",
+      "slug": "bastille",
+      "titre": "La Bastille, ou ce qu'on venait vraiment y chercher",
+      "chapo": "Paris, 14 juillet 1789 : la foule ne monte pas délivrer des prisonniers, elle vient chercher de la poudre.",
+      "periode": "Révolution française · 14 juillet 1789",
+      "recit": [
+        "Le 5 mai 1789, faute de pouvoir emprunter davantage, Louis XVI a réuni à Versailles les États généraux <span class=\"glose\">(l'assemblée des trois ordres, convoquée pour la première fois depuis 1614)</span>. Le 17 juin, les députés du tiers se proclament Assemblée nationale : ils prétendent parler au nom de la nation entière, non plus d'un ordre. Le roi cède, puis se ravise ; fin juin, plusieurs dizaines de milliers d'hommes, en bonne part des régiments étrangers, convergent vers Paris. La récolte de 1788 a manqué : le pain est au plus haut du siècle. Une assemblée qui se dit souveraine, une armée massée pour la dissoudre — la conjonction n'existait pas vingt ans plus tôt.",
+        "Le 11 juillet, le roi renvoie Jacques Necker, banquier genevois et protestant, le seul ministre à qui Paris fasse crédit pour avoir publié les comptes du royaume. La nouvelle arrive le 12 et la ville s'arme. À l'Hôtel de Ville, les électeurs de Paris <span class=\"glose\">(les notables désignés au printemps pour choisir les députés, et qui n'avaient plus de mandat)</span> se muent en gouvernement de fait et lèvent une milice bourgeoise. En face, à la Bastille, commande Bernard-René de Launay, gouverneur depuis 1776, fils du gouverneur précédent, né à l'intérieur même de la forteresse : une charge héritée, tenue par un homme qui n'avait jamais commandé au feu.",
+        "Le 14 au matin, la foule enlève aux Invalides près de trente mille fusils — et pas une once de poudre. Elle est à la Bastille, où l'on avait fait porter deux cent cinquante barils quelques jours plus tôt, par précaution. Trois délégations montent négocier ; on les fait attendre, puis on tire : près d'une centaine d'assaillants tombent. Ce qui emporte la place n'est pas le nombre : vers quinze heures arrivent des gardes françaises <span class=\"glose\">(le régiment chargé de la garde de Paris, passé à l'insurrection)</span>, avec des canons qu'ils savent pointer, braqués sur la porte. Launay capitule. On le traîne vers l'Hôtel de Ville, on l'achève en chemin, sa tête finit au bout d'une pique — celle du prévôt des marchands Flesselles l'y rejoint le soir."
+      ],
+      "chute": "Sept détenus derrière ces murs, dont deux fous et un noble enfermé à la demande des siens, et une forteresse que le roi avait déjà décidé de raser pour en finir avec son entretien : ce qui est tombé ce jour-là n'était pas une prison, c'était la certitude que l'armée obéirait.",
+      "ressources": [
+        {
+          "titre": "« 5 choses à savoir sur la prise de la Bastille » — Paris Musées / musée Carnavalet",
+          "url": "https://www.parismusees.paris.fr/fr/actualite/5-choses-a-savoir-sur-la-prise-de-la-bastille",
+          "note": "Court et documenté par le musée qui conserve les objets : la démolition déjà décidée, l'enjeu réel de la poudre, et le « Rien » écrit par Louis XVI dans son carnet de chasse."
+        },
+        {
+          "titre": "« La Bastille ou l'enfer des vivants ? » — dossier BnF (PDF)",
+          "url": "https://classes.bnf.fr/pdf/Bastille1.pdf",
+          "note": "Ce que disent les archives de la prison elle-même — 5 279 séjours en cent trente ans, quarante-cinq places, du vin de Bourgogne pour les uns et des cachots pour les autres — contre la légende noire."
+        },
+        {
+          "titre": "<i>Mémoires de Linguet sur la Bastille, et de Dusaulx sur le 14 juillet</i> (Baudouin frères, 1821)",
+          "url": "https://archive.org/details/mmoiresdelingue01desagoog",
+          "note": "Les deux sources primaires réunies en libre téléchargement : le pamphlet d'un ancien détenu qui a fabriqué le mythe, puis le récit d'un témoin de la journée."
+        },
+        {
+          "titre": "« Quoi de neuf sur la Révolution ? avec Paul Chopelin » — <i>Paroles d'histoire</i>, épisode 360",
+          "url": "https://parolesdhistoire.fr/index.php/2024/12/16/360-quoi-de-neuf-sur-la-revolution-avec-paul-chopelin/",
+          "note": "Une heure d'état des lieux en écoute libre avec le président de la Société des études robespierristes : où en est la recherche sur 1789, loin du récit scolaire."
+        },
+        {
+          "titre": "Jacques Godechot, <i>La Prise de la Bastille. 14 juillet 1789</i>, Gallimard, coll. « Trente journées qui ont fait la France », 1965",
+          "url": null,
+          "note": "Le classique qui reconstitue la journée heure par heure et dresse le portrait social des « vainqueurs de la Bastille » — des artisans du faubourg, non une foule anonyme."
+        }
+      ]
+    },
+    {
+      "numero": 10,
+      "date": "2026-08-17",
+      "slug": "austerlitz",
+      "titre": "Austerlitz, ou la victoire qu'on a grossie quand même",
+      "chapo": "Moravie, 2 décembre 1805 : trois empereurs sur un même champ, et une déroute si nette qu'il n'était pas nécessaire de l'inventer.",
+      "periode": "Premier Empire · 2 décembre 1805",
+      "recit": [
+        "Le 2 décembre 1805, Napoléon est empereur depuis un an jour pour jour, et l'année a mal tourné. En août, il a levé le camp de Boulogne où il préparait depuis deux ans l'invasion de l'Angleterre : Pitt venait d'acheter une troisième coalition. La Grande Armée a traversé l'Allemagne en cinq semaines, capturé une armée autrichienne à Ulm, pris Vienne. Mais Trafalgar a coulé la flotte, l'hiver vient, la Prusse s'apprête à basculer. Il lui faut une bataille tout de suite ; à ses adversaires, il suffit d'attendre.",
+        "En face, trois souverains et un désaccord. Alexandre I<sup>er</sup> a vingt-sept ans, règne depuis l'assassinat de son père, et vient chercher en personne la gloire que lui promettent ses jeunes officiers. François II de Habsbourg, qui porte la couronne du Saint-Empire <span class=\"glose\">(le titre électif faisant de lui le premier souverain d'Allemagne)</span>, vient de perdre sa capitale : il n'a plus de quoi discuter. Koutouzov, qui commande l'armée russe, voudrait reculer et laisser la Grande Armée s'étirer ; mais un général ne contredit pas un tsar présent au camp.",
+        "Napoléon leur offre ce qu'ils espèrent. Il abandonne le plateau de Pratzen, seule hauteur du champ, dégarnit ostensiblement sa droite et fait demander un armistice avec des airs d'homme aux abois ; l'émissaire du tsar en repart convaincu qu'une avant-garde suffirait. Au matin, les colonnes alliées descendent du plateau pour envelopper cette aile trop faible, et le centre se vide. Le brouillard se lève, les divisions de Soult remontent la pente, et l'armée alliée se retrouve coupée en deux sur le terrain qu'elle vient de quitter.",
+        "Le reste appartient au récit. Des colonnes russes refluent sur des étangs gelés, l'artillerie tire dans la glace, et le trentième bulletin de la Grande Armée <span class=\"glose\">(le communiqué officiel dicté par l'Empereur)</span> annonce vingt mille noyés contre huit cents morts français. On vide les étangs peu après : deux ou trois corps, cent cinquante chevaux. Les pertes véritables n'avaient pourtant nul besoin d'être inventées. Le 26 décembre, l'Autriche signe Presbourg ; en août 1806, François II dépose une couronne vieille de mille ans."
+      ],
+      "chute": "On retient d'Austerlitz un soleil qui perce et des milliers de Russes engloutis : le premier n'était qu'un brouillard qui se lève, les seconds n'ont jamais été retrouvés — Napoléon avait compris avant tout le monde qu'une bataille se gagne deux fois, sur le terrain puis à l'imprimerie.",
+      "ressources": [
+        {
+          "titre": "30<sup>e</sup> Bulletin de la Grande Armée, 3 décembre 1805 — Fondation Napoléon",
+          "url": "https://www.napoleon.org/histoire-des-2-empires/articles/30e-bulletin-de-la-grande-armee-12-frimaire-an-xiv-3-decembre-1805/",
+          "note": "La source primaire de la légende, en accès libre : on y lit les huit cents morts français, les vingt mille noyés et la comparaison avec Aboukir, écrites le lendemain même."
+        },
+        {
+          "titre": "Les Mémoires de Marbot sur Austerlitz — Histoire du Consulat et du Premier Empire",
+          "url": "http://www.histoire-empire.org/austerlitz/temoignages/marbot.htm",
+          "note": "Le témoignage d'un aide de camp présent sur le champ, présenté avec l'avertissement qui convient : même un témoin oculaire reprend ici la légende des étangs."
+        },
+        {
+          "titre": "« La Bataille d'Austerlitz » par François Gérard — L'Histoire par l'image",
+          "url": "https://histoire-image.org/etudes/bataille-austerlitz",
+          "note": "L'analyse du grand tableau de 1810 accroché à Versailles : comment on peint une victoire, jusqu'à corriger la topographie du champ de bataille."
+        },
+        {
+          "titre": "« La bataille d'Austerlitz », par Jean Tulard — Les Podcasts de l'Institut de France",
+          "url": "https://podcasts.institutdefrance.fr/emissions/napoleon-et-lempire/la-bataille-dausterlitz",
+          "note": "Une heure en quatre épisodes, en écoute libre, par le doyen des spécialistes français de Napoléon : la campagne de 1805 replacée dans sa logique politique."
+        },
+        {
+          "titre": "Jacques Garnier, <i>Austerlitz. 2 décembre 1805</i>, Fayard, 2005",
+          "url": null,
+          "note": "Le livre de référence en français, qui reprend heure par heure le déroulement réel et démonte au passage les chiffres du Bulletin."
+        }
+      ]
+    },
+    {
+      "numero": 11,
+      "date": "2026-08-18",
+      "slug": "la-terreur",
+      "titre": "La Terreur, ou le nom donné par les vainqueurs",
+      "chapo": "1793-1794 : une république assiégée suspend son droit, et lègue au monde un mot qu'elle n'avait pas prononcé.",
+      "periode": "Révolution française · 1793-1794",
+      "recit": [
+        "Au printemps 1793, la République a six mois et perd partout. Louis XVI est mort le 21 janvier, l'Europe monarchique s'est coalisée, et Dumouriez, le vainqueur de Valmy, passe à l'ennemi en avril. La Vendée s'est soulevée contre la conscription, l'assignat <span class=\"glose\">(le papier-monnaie révolutionnaire)</span> s'effondre, le pain manque ; l'expulsion des députés girondins, le 2 juin, dresse contre Paris une soixantaine de départements.",
+        "Le 5 septembre, les sans-culottes envahissent la Convention et réclament « la terreur à l'ordre du jour ». Barère reprend la formule, mais aucun décret ne l'institue : une assemblée qui concède des mots pour ne pas céder le pouvoir, note Jean-Clément Martin. La loi des suspects, le 17 septembre, permet d'arrêter quiconque n'a « rien fait pour la liberté » ; le 10 octobre, le gouvernement est déclaré révolutionnaire jusqu'à la paix, la constitution votée en juin restant lettre morte. Le 10 juin 1794, la loi du 22 prairial supprime défenseurs et témoins et ne laisse que l'acquittement ou la mort : le tribunal de Paris, qui avait prononcé mille deux cent seize condamnations capitales en quinze mois, en exécute mille quatre cent neuf en sept semaines.",
+        "Environ seize mille six cents condamnations à mort seront prononcées dans le pays, sans compter la Vendée et Lyon, où l'on tue hors de toute procédure. Le 9 thermidor an II — 27 juillet 1794 — la Convention, prise de peur pour elle-même, met Robespierre hors la loi ; il est guillotiné le lendemain.",
+        "Le démontage suit aussitôt : loi de prairial abrogée, club des Jacobins fermé en novembre, maximum sur les prix supprimé le 24 décembre, d'où l'inflation et la famine qui nourrissent les émeutes de l'an III, pendant qu'une Terreur blanche massacre les jacobins dans le Midi. En août 1795, la constitution de l'an III rétablit le suffrage censitaire et confie le pouvoir à un Directoire installé le 26 octobre. Restait à nommer ce qu'on venait d'abattre : les vainqueurs de thermidor forgèrent « terrorisme »."
+      ],
+      "chute": "Le mot qui désigne aujourd'hui la violence faite aux États fut inventé pour celle d'un État — et il transporte encore sa question : jusqu'où une république en guerre peut suspendre son droit sans cesser d'être elle-même.",
+      "ressources": [
+        {
+          "titre": "Robespierre, <i>Rapport sur les principes de morale politique</i>, 18 pluviôse an II (1794)",
+          "url": "https://archive.org/details/rapportsurlespri00robe_19",
+          "note": "La brochure originale de l'Imprimerie nationale, numérisée et téléchargeable : vingt-trois pages où « la vertu et la terreur » sont mises sur le même plan."
+        },
+        {
+          "titre": "« Le renforcement de la Terreur par le décret du 22 prairial » — L'Histoire par l'image",
+          "url": "https://histoire-image.org/etudes/renforcement-terreur-decret-22-prairial",
+          "note": "Le décret manuscrit conservé aux Archives nationales, commenté avec les chiffres du tribunal de Paris avant et après le 10 juin 1794."
+        },
+        {
+          "titre": "« Thermidor, avec Colin Jones » — <i>Paroles d'histoire</i>, épisode 346",
+          "url": "https://parolesdhistoire.fr/index.php/2024/07/09/346-thermidor-avec-colin-jones/",
+          "note": "Une heure d'écoute libre sur les vingt-quatre heures du 9 thermidor, par l'historien qui les a reconstituées rue par rue."
+        },
+        {
+          "titre": "Jean-Clément Martin, « La Terreur, ou comment écrire l'histoire », <i>Revue d'histoire moderne et contemporaine</i>, 2020 (PDF)",
+          "url": "https://amis-robespierre.org/IMG/pdf/martin_jean-clement_rhmc_2020_no_2_la_terreur.pdf",
+          "note": "L'état du débat par celui qui conteste l'existence d'un « système de la Terreur », avec les objections de Biard, Wahnich et Gueniffey."
+        },
+        {
+          "titre": "Michel Biard et Hervé Leuwers (dir.), <i>Visages de la Terreur. L'exception politique de l'an II</i>, Armand Colin, 2014",
+          "url": null,
+          "note": "Le livre collectif de référence, qui remplace « la » Terreur par des politiques négociées, appliquées inégalement selon les départements."
+        }
+      ]
+    },
+    {
+      "numero": 12,
+      "date": "2026-08-19",
+      "slug": "commune-de-paris",
+      "titre": "La Commune de Paris, ou soixante-douze jours",
+      "chapo": "Printemps 1871 : une ville armée, une assemblée qui la craint, et la guerre civile au sortir d'une guerre perdue.",
+      "periode": "Après Sedan · mars-mai 1871",
+      "recit": [
+        "Le 2 septembre 1870, Napoléon III capitule à Sedan ; deux jours plus tard, la République est proclamée à Paris. La ville subit quatre mois de siège ; sa garde nationale <span class=\"glose\">(milice citoyenne qui élit ses officiers)</span> aligne des centaines de milliers d'hommes. L'armistice du 28 janvier 1871 y passe pour une trahison. Les élections du 8 février donnent une Assemblée provinciale et monarchiste : elle porte au pouvoir Adolphe Thiers, vieux ministre de Louis-Philippe, exige le paiement des loyers et dettes suspendus par la guerre, supprime la solde de la garde nationale, et s'installe à Versailles.",
+        "Le 18 mars, Thiers envoie l'armée reprendre les canons de Montmartre, que Paris avait payés par souscription. Les soldats fraternisent, deux généraux sont fusillés, le gouvernement s'enfuit. Des élections ont lieu le 26 mars ; le 28, la Commune s'installe à l'Hôtel de Ville.",
+        "En deux mois, elle annule les loyers arriérés, sépare les Églises et l'État, rend l'école gratuite et laïque, confie aux coopératives ouvrières les ateliers désertés. Sa Déclaration du 19 avril réclame l'autonomie de toutes les communes de France : moins une révolution sociale qu'une autre façon de faire tenir un pays. Thiers reconstitue une armée avec les prisonniers que Bismarck lui rend, et signe le 10 mai le traité de Francfort — l'Alsace et la Moselle cédées, cinq milliards d'indemnité.",
+        "Les Versaillais entrent le 21 mai : sept jours de barricades et d'exécutions, la Semaine sanglante. Le bilan longtemps reçu de vingt à trente mille morts, que Robert Tombs a ramené à six ou sept mille d'après les registres d'inhumation, reste discuté. Suivent dix mille condamnations, quatre mille déportations en Nouvelle-Calédonie ; l'amnistie n'arrive qu'en 1880. La République se fonde ensuite contre elle, par les lois constitutionnelles de 1875 ; le mouvement ouvrier, privé de ses cadres, mettra dix ans à se refaire ; et sur la butte des canons l'Assemblée vote en 1873 le Sacré-Cœur."
+      ],
+      "chute": "Vaincue en soixante-douze jours, elle a laissé une question que la France rouvre encore : ce qu'une ville peut contre un État, et jusqu'où une république se croit permis d'aller contre les siens.",
+      "ressources": [
+        {
+          "titre": "« La Commune de Paris » — Assemblée nationale, histoire et patrimoine",
+          "url": "https://www.assemblee-nationale.fr/dyn/histoire-et-patrimoine/troisieme-republique/la-commune-de-paris",
+          "note": "La synthèse institutionnelle en accès libre : ce que l'Assemblée de février 1871 a décidé, et pourquoi ses décisions ont mis le feu à Paris."
+        },
+        {
+          "titre": "« Déclaration au peuple français », 19 avril 1871 — Fondation Gabriel Péri",
+          "url": "https://gabrielperi.fr/commune-de-paris/declaration-au-peuple-francais-du-19-avril-1871/",
+          "note": "La source primaire intégrale : le seul programme que la Commune ait eu le temps d'écrire, et il parle d'autonomie communale avant de parler d'ouvriers."
+        },
+        {
+          "titre": "Robert Tombs, « How bloody was <i>la semaine sanglante</i> of 1871 ? A revision » (PDF)",
+          "url": "https://www.h-france.net/Salon/Salonvol3no1.pdf",
+          "note": "L'article qui a fait descendre le bilan de trente mille à sept mille morts, registres d'inhumation à l'appui — avec, dans la même revue, les objections qui ont suivi."
+        },
+        {
+          "titre": "Archives sonores de la Commune — RaspouTeam",
+          "url": "https://raspou.team/1871/podcasts/",
+          "note": "Une quinzaine d'émissions en écoute libre, dont Jacques Rougerie sur la Semaine sanglante et Laure Godineau sur le bagne et l'exil."
+        },
+        {
+          "titre": "Quentin Deluermoz, <i>Commune(s), 1870-1871. Une traversée des mondes possibles</i>, Seuil, 2020",
+          "url": null,
+          "note": "Le livre de référence récent, qui replace l'épisode parisien parmi les communes de province et dans un XIX<sup>e</sup> siècle mondial."
+        }
+      ]
+    },
+    {
+      "numero": 13,
+      "date": "2026-08-20",
+      "slug": "verdun",
+      "titre": "Verdun, ou la bataille conçue pour user",
+      "chapo": "Meuse, 21 février 1916 : la première bataille qu'un État ait conçue pour vider l'adversaire plutôt que pour percer son front.",
+      "periode": "Grande Guerre · 21 février - 18 décembre 1916",
+      "recit": [
+        "Depuis la Marne, en 1914, la guerre s'est enterrée entre la mer du Nord et la Suisse, et les offensives de 1915 s'y sont brisées sans percer. Von Falkenhayn, chef d'état-major allemand, cherche autre chose que la percée. Dans un mémorandum qu'il dit avoir remis au Kaiser à Noël 1915 — texte introuvable, que Holger Afflerbach tient pour rédigé après coup —, il aurait choisi Verdun pour y saigner à blanc l'armée française, sur un terrain qu'elle défendrait à tout prix.",
+        "Le 21 février au matin, mille deux cents canons ouvrent le feu sur le saillant, dont Joffre avait fait désarmer les forts l'année précédente. Le 25, Douaumont tombe presque sans combat, tenu par soixante territoriaux. Philippe Pétain, appelé en urgence, réarme les ouvrages, réorganise l'artillerie et met en place le tourniquet <span class=\"glose\">(rotation continue des divisions, qui montent au feu et redescendent se reformer)</span> : chaque division française y passera brisée à son tour — les deux tiers de l'armée y sont versés, ravitaillés par une seule route depuis Bar-le-Duc, la Voie sacrée. En mai, Nivelle coiffe Pétain et monte les contre-offensives : Douaumont est repris le 24 octobre, Vaux le 2 novembre, et le 18 décembre le front est revenu à peu près à sa ligne de février.",
+        "Environ sept cent mille hommes tombés, aux pertes presque égales des deux côtés, pour aucun terrain qui compte. Nivelle, auréolé de la reprise, hérite du commandement et lance en avril 1917 l'offensive du Chemin des Dames ; le désastre déclenche les mutineries et rappelle Pétain, cette fois pour toute l'armée. Verdun devient le sacre républicain du poilu, la bataille par laquelle toute famille française a passé un homme, et fournit à Pétain, un quart de siècle plus tard, le capital moral qu'il monnayera à Vichy. En 1984, Mitterrand et Kohl, main dans la main devant l'ossuaire, en font le symbole de la réconciliation."
+      ],
+      "chute": "On l'enseigne comme le triomphe de l'endurance française ; c'est aussi la première bataille qu'un État ait conçue pour user l'adversaire plutôt que le battre — et la matrice de toutes celles du siècle.",
+      "ressources": [
+        {
+          "titre": "« Verdun 1916-2016 », entretien croisé Antoine Prost / Gerd Krumeich — Chemins de mémoire",
+          "url": "https://www.cheminsdememoire.gouv.fr/fr/revue/verdun-1916-2016",
+          "note": "Le dossier du ministère des Armées : deux des meilleurs spécialistes, français et allemand, croisant leurs vues sur la bataille et sur ce qu'elle a laissé de chaque côté du Rhin."
+        },
+        {
+          "titre": "Raymond Jubert, <i>Verdun (mars-mai 1916)</i> — Wikisource",
+          "url": "https://fr.wikisource.org/wiki/Verdun_(mars-mai_1916)/01",
+          "note": "Le récit d'un sous-lieutenant du 151<sup>e</sup> RI, paru en 1918 dans la <i>Revue des Deux Mondes</i> et numérisé en accès libre : la bataille racontée par un homme qui y a tenu la tranchée."
+        },
+        {
+          "titre": "Allain Bernède, « Verdun 1916 : un choix stratégique, une équation logistique » — <i>Revue historique des armées</i> (OpenEdition)",
+          "url": "https://journals.openedition.org/rha/4122",
+          "note": "L'article de fond en accès libre pour saisir la Voie sacrée en chiffres — 3 900 véhicules, 2,4 millions d'hommes transportés — et l'aveuglement du GQG français avant le 21 février."
+        },
+        {
+          "titre": "« Verdun, bataille monstre, avec Michaël Bourlet » — <i>Paroles d'histoire</i>, épisode 299",
+          "url": "https://parolesdhistoire.fr/index.php/2023/09/15/299-verdun-bataille-monstre-avec-michael-bourlet-le-fil-de-lepee-1-avec-alexandre-jubelin/",
+          "note": "Près d'une heure en écoute libre sur l'attaque allemande, la modernité tactique de Verdun et les querelles du haut commandement français."
+        },
+        {
+          "titre": "Antoine Prost et Gerd Krumeich, <i>Verdun 1916. Une histoire franco-allemande de la bataille</i>, Tallandier, 2015",
+          "url": null,
+          "note": "Le livre de référence, écrit à quatre mains : la première synthèse qui restitue la bataille des deux points de vue, et démonte à cette occasion le mythe de la « saignée à blanc »."
+        }
+      ]
+    }
+  ],
+  "manquants": []
+}

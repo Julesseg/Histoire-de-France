@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Histoire de France</title>
+<style>
+  :root{
+    --fond:#FBFAF7; --texte:#2A2A28; --doux:#6B6862;
+    --filet:#DFDAD0; --lien:#7A4A2F; --survol:rgba(122,74,47,.06);
+    --marge-haut:52px;
+  }
+  @media (prefers-color-scheme: dark){
+    :root{
+      --fond:#16150F; --texte:#E8E5DC; --doux:#9C978A;
+      --filet:#33301F; --lien:#C89468; --survol:rgba(200,148,104,.08);
+    }
+  }
+  *{box-sizing:border-box;}
+  html{-webkit-text-size-adjust:100%;}
+  body{
+    margin:0; background:var(--fond); color:var(--texte);
+    font-family:Georgia,'Iowan Old Style','Times New Roman',serif;
+    font-size:19px; line-height:1.65; -webkit-font-smoothing:antialiased;
+  }
+  /* Le document lui-même ne défile jamais : chaque vue est un panneau
+     plein écran qui défile pour son propre compte. Chaque épisode s'ouvre
+     donc à son propre début, sans hériter de la position du précédent. */
+  html,body{height:100%;}
+  body{overflow:hidden;}
+  .vue{
+    position:absolute; inset:0;
+    overflow-y:auto; -webkit-overflow-scrolling:touch;
+    overscroll-behavior:contain;
+    display:none;
+  }
+  .vue.ouverte{display:block;}
+  /* La marge haute dégage la barre d'état du téléphone
+     (env(safe-area-inset-top), non nul grâce à viewport-fit=cover). */
+  .page{
+    max-width:640px; margin:0 auto;
+    padding-top:calc(var(--marge-haut) + env(safe-area-inset-top, 0px));
+    padding-bottom:calc(92px + env(safe-area-inset-bottom, 0px));
+    padding-left:max(26px, env(safe-area-inset-left));
+    padding-right:max(26px, env(safe-area-inset-right));
+  }
+  a{color:var(--lien); text-decoration:underline; text-decoration-thickness:1px;
+    text-underline-offset:3px;}
+  a:hover{text-decoration-thickness:2px;}
+
+  /* ---------- bandeaux ---------- */
+  .periode{
+    font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;
+    font-size:11.5px; font-weight:600; letter-spacing:.22em; text-transform:uppercase;
+    color:var(--doux); margin:0 0 14px;
+  }
+  h1{font-weight:400; font-size:40px; line-height:1.14; letter-spacing:-.012em; margin:0;}
+  .accueil h1{font-size:44px;}
+  article header{margin-bottom:42px;}
+  .accroche{color:var(--doux); margin:12px 0 0; font-size:17.5px; font-style:italic;}
+
+  /* ---------- index ---------- */
+  .sommaire{margin-top:46px; border-top:1px solid var(--filet);}
+  .item{
+    display:block; padding:22px 12px 22px 0; border-bottom:1px solid var(--filet);
+    text-decoration:none; color:inherit; margin:0 -12px 0 0; padding-left:12px;
+    margin-left:-12px; border-radius:3px;
+  }
+  .item:hover{background:var(--survol); text-decoration:none;}
+  .item-tete{
+    display:flex; align-items:baseline; gap:10px; margin-bottom:5px;
+    font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;
+    font-size:11.5px; letter-spacing:.14em; text-transform:uppercase; color:var(--doux);
+  }
+  .num{font-weight:700; color:var(--lien);}
+  .item-titre{font-size:24px; line-height:1.25; margin:0 0 5px; color:var(--texte);}
+  .item-amorce{font-size:16.5px; line-height:1.5; color:var(--doux); margin:0;}
+  .item-periode{margin-left:auto; letter-spacing:.08em; text-transform:none; font-style:italic;}
+
+  .absent{opacity:.55; cursor:default;}
+  .absent:hover{background:none;}
+  .mention{
+    font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;
+    font-size:12px; color:var(--doux); font-style:italic; margin-top:4px;
+  }
+
+  /* ---------- épisode ---------- */
+  .glose{color:var(--doux);}
+  .recit p{margin:0 0 1.15em; text-wrap:pretty;}
+  .recit p:first-of-type::first-letter{
+    float:left; font-size:63px; line-height:.82; padding:6px 10px 0 0; margin-top:4px;
+    color:var(--lien);
+  }
+  .chute{margin-top:1.6em; font-style:italic;}
+  .creuser{margin-top:54px; padding-top:36px; border-top:1px solid var(--filet);}
+  h2{
+    font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;
+    font-size:12px; font-weight:600; letter-spacing:.19em; text-transform:uppercase;
+    color:var(--doux); margin:0 0 26px;
+  }
+  .entree{margin-bottom:24px;}
+  .entree .titre{display:block; margin-bottom:2px;}
+  .quoi{display:block; font-size:16.5px; line-height:1.5; color:var(--doux);}
+  .livre .titre{color:var(--texte);}
+
+  /* ---------- navigation ---------- */
+  .barre{
+    margin-top:54px; padding-top:26px; border-top:1px solid var(--filet);
+    display:flex; gap:16px; align-items:baseline; flex-wrap:wrap;
+    font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;
+    font-size:13.5px;
+  }
+  .barre .droite{margin-left:auto; display:flex; gap:16px;}
+  .retour{
+    display:inline-block; margin-bottom:30px;
+    font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;
+    font-size:13px; letter-spacing:.04em; text-decoration:none;
+  }
+  .retour:hover{text-decoration:underline;}
+  footer{
+    margin-top:52px;
+    font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;
+    font-size:12px; letter-spacing:.05em; color:var(--doux);
+  }
+  .etat{
+    font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;
+    font-size:15px; color:var(--doux);
+  }
+  @media (max-width:420px){
+    :root{--marge-haut:40px;}
+    .page{padding-top:max(88px, calc(40px + env(safe-area-inset-top, 0px)));}
+    h1{font-size:32px;} .accueil h1{font-size:35px;}
+    .item-titre{font-size:21px;}
+    .item-periode{display:none;}
+  }
+</style>
+</head>
+<body>
+<div id="app" class="vue ouverte"><div class="page"><p class="etat">Chargement…</p></div></div>
+<noscript><div class="vue ouverte"><div class="page"><p class="etat">Ce site affiche les épisodes à partir de <code>episodes.json</code> et a besoin de JavaScript.</p></div></div></noscript>
+<script>
+(function () {
+  'use strict';
+
+  var MOIS = ['janvier','février','mars','avril','mai','juin','juillet',
+              'août','septembre','octobre','novembre','décembre'];
+  var ABBR = ['janv.','févr.','mars','avr.','mai','juin','juil.',
+              'août','sept.','oct.','nov.','déc.'];
+
+  /* 2026-07-30 -> 30 juillet 2026 */
+  function dateFr(iso) {
+    var p = String(iso || '').split('-');
+    if (p.length !== 3) return iso;
+    var j = parseInt(p[2], 10), m = parseInt(p[1], 10), a = parseInt(p[0], 10);
+    if (isNaN(j) || isNaN(m) || isNaN(a)) return iso;
+    return (j === 1 ? '1<sup>er</sup>' : String(j)) + ' ' + MOIS[m - 1] + ' ' + a;
+  }
+
+  /* 2026-07-30 -> 30 juil. */
+  function dateCourte(iso) {
+    var p = String(iso || '').split('-');
+    if (p.length !== 3) return iso;
+    var j = parseInt(p[2], 10), m = parseInt(p[1], 10);
+    if (isNaN(j) || isNaN(m)) return iso;
+    return j + ' ' + ABBR[m - 1];
+  }
+
+  /* Retire les balises — indispensable avant toute troncature, sous peine
+     de couper au milieu d'une balise. */
+  function sansBalises(t) { return String(t == null ? '' : t).replace(/<[^>]+>/g, ''); }
+
+  function deuxChiffres(n) { return (n < 10 ? '0' : '') + n; }
+
+  /* Première phrase du récit, tronquée proprement, pour l'index. */
+  function amorce(ep, limite) {
+    limite = limite || 155;
+    var texte = sansBalises((ep.recit || [''])[0]);
+    if (texte.length <= limite) return texte;
+    var coupe = texte.slice(0, limite);
+    var point = Math.max(coupe.lastIndexOf('. '), coupe.lastIndexOf(' — '));
+    if (point > 60) return coupe.slice(0, point + 1);
+    var espace = coupe.lastIndexOf(' ');
+    return coupe.slice(0, espace > 0 ? espace : limite).replace(/[ ,;:]+$/, '') + '…';
+  }
+
+  function el(tag, classe, html) {
+    var n = document.createElement(tag);
+    if (classe) n.className = classe;
+    if (html != null) n.innerHTML = html;
+    return n;
+  }
+
+  function rendreIndex(data, episodes, manquants) {
+    var vue = el('section', 'vue index accueil');
+    vue.id = 'vue-index';
+    vue.dataset.titre = sansBalises(data.titre_site);
+    var page = el('div', 'page');
+
+    var tete = document.createElement('header');
+    tete.appendChild(el('p', 'periode', data.sous_titre || ''));
+    tete.appendChild(el('h1', null, data.titre_site));
+    var n = episodes.length;
+    var compte = n === 1 ? '1 épisode archivé' : n + ' épisodes archivés';
+    if (manquants.length) compte += ', ' + manquants.length + ' en attente';
+    tete.appendChild(el('p', 'accroche', compte + '. Le plus récent en bas.'));
+    page.appendChild(tete);
+
+    var nav = el('nav', 'sommaire');
+    /* Classement par date de parution, pas par numéro : un rattrapage peut
+       porter un numéro élevé et une date antérieure. */
+    var tout = episodes.map(function (e) { return { date: e.date, ep: e }; })
+      .concat(manquants.map(function (m) { return { date: m.date, m: m }; }))
+      .sort(function (a, b) { return a.date < b.date ? -1 : a.date > b.date ? 1 : 0; });
+
+    tout.forEach(function (entree) {
+      var e = entree.ep || entree.m;
+      var tete2 = '<span class="item-tete"><span class="num">' + deuxChiffres(e.numero) +
+        '</span><span>' + dateCourte(e.date) + '</span>' +
+        '<span class="item-periode">' + e.periode + '</span></span>';
+      if (entree.ep) {
+        var a = el('a', 'item', tete2 +
+          '<h3 class="item-titre">' + e.titre + '</h3>' +
+          '<p class="item-amorce">' + amorce(e) + '</p>');
+        a.href = '#' + e.slug;
+        nav.appendChild(a);
+      } else {
+        nav.appendChild(el('div', 'item absent', tete2 +
+          '<h3 class="item-titre">' + e.titre + '</h3>' +
+          '<p class="mention">Récit non archivé — antérieur à la mise en place du site.</p>'));
+      }
+    });
+    page.appendChild(nav);
+
+    var iso = new Date().toISOString().slice(0, 10);
+    page.appendChild(el('footer', null, 'Mis à jour le ' + dateFr(iso)));
+    vue.appendChild(page);
+    return vue;
+  }
+
+  function rendreEpisode(ep, precedent, suivant) {
+    var vue = el('article', 'vue ep');
+    vue.id = 'vue-' + ep.slug;
+    vue.dataset.titre = sansBalises(ep.titre) + ' — Histoire de France';
+    var page = el('div', 'page');
+
+    var retour = el('a', 'retour', '← Tous les épisodes');
+    retour.href = '#index';
+    page.appendChild(retour);
+
+    var tete = document.createElement('header');
+    tete.appendChild(el('p', 'periode', ep.periode));
+    tete.appendChild(el('h1', null, ep.titre));
+    if (ep.chapo) tete.appendChild(el('p', 'accroche', ep.chapo));
+    page.appendChild(tete);
+
+    var recit = el('section', 'recit');
+    (ep.recit || []).forEach(function (p) { recit.appendChild(el('p', null, p)); });
+    if (ep.chute) recit.appendChild(el('p', 'chute', ep.chute));
+    page.appendChild(recit);
+
+    var ressources = ep.ressources || [];
+    if (ressources.length) {
+      var creuser = el('section', 'creuser');
+      creuser.appendChild(el('h2', null, 'Pour creuser'));
+      ressources.forEach(function (r) {
+        var bloc = el('div', r.url ? 'entree' : 'entree livre');
+        if (r.url) {
+          var lien = el('a', 'titre', r.titre);
+          lien.href = r.url;
+          lien.rel = 'noopener';
+          bloc.appendChild(lien);
+        } else {
+          bloc.appendChild(el('span', 'titre', r.titre));
+        }
+        bloc.appendChild(el('span', 'quoi', r.note || ''));
+        creuser.appendChild(bloc);
+      });
+      page.appendChild(creuser);
+    }
+
+    var barre = el('div', 'barre', '<a href="#index">Index</a>');
+    var liens = [];
+    if (precedent) liens.push('<a href="#' + precedent.slug + '">← ' + precedent.titre + '</a>');
+    if (suivant) liens.push('<a href="#' + suivant.slug + '">' + suivant.titre + ' →</a>');
+    if (liens.length) barre.appendChild(el('span', 'droite', liens.join(' ')));
+    page.appendChild(barre);
+
+    page.appendChild(el('footer', null, 'Épisode ' + ep.numero + ' · ' + dateFr(ep.date)));
+    vue.appendChild(page);
+    return vue;
+  }
+
+  function construire(data) {
+    var parDate = function (a, b) { return a.date < b.date ? -1 : a.date > b.date ? 1 : 0; };
+    var episodes = (data.episodes || []).slice().sort(parDate);
+    var manquants = (data.manquants || []).slice().sort(parDate);
+
+    var app = document.getElementById('app');
+    app.className = '';
+    app.removeAttribute('class');
+    app.innerHTML = '';
+    app.appendChild(rendreIndex(data, episodes, manquants));
+    episodes.forEach(function (ep, i) {
+      app.appendChild(rendreEpisode(ep, episodes[i - 1] || null, episodes[i + 1] || null));
+    });
+
+    var base = data.titre_site || document.title;
+
+    function router() {
+      var id = location.hash.replace(/^#/, '') || 'index';
+      var vue = document.getElementById('vue-' + id) || document.getElementById('vue-index');
+      Array.prototype.forEach.call(app.querySelectorAll('.vue'), function (v) {
+        v.classList.toggle('ouverte', v === vue);
+      });
+      /* Chaque panneau défile pour son propre compte : on le remet à zéro
+         pour qu'un épisode s'ouvre toujours à son début. */
+      vue.scrollTop = 0;
+      document.title = vue.dataset.titre || base;
+    }
+
+    window.addEventListener('hashchange', router);
+    router();
+  }
+
+  function echec(message) {
+    document.getElementById('app').innerHTML =
+      '<div class="page"><p class="etat">' + message + '</p></div>';
+  }
+
+  fetch('episodes.json', { cache: 'no-cache' })
+    .then(function (r) {
+      if (!r.ok) throw new Error('HTTP ' + r.status);
+      return r.json();
+    })
+    .then(construire)
+    .catch(function (e) {
+      echec('Impossible de charger les épisodes (' + e.message + ').');
+    });
+})();
+</script>
+</body>
+</html>
