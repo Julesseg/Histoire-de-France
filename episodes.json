@@ -543,6 +543,48 @@
           "note": "Le livre de référence, écrit à quatre mains : la première synthèse qui restitue la bataille des deux points de vue, et démonte à cette occasion le mythe de la « saignée à blanc »."
         }
       ]
+    },
+    {
+      "numero": 14,
+      "date": "2026-08-23",
+      "slug": "affaire-dreyfus",
+      "titre": "L'affaire Dreyfus, ou douze ans pour défaire une signature",
+      "chapo": "Un capitaine condamné sur une pièce fausse, et une République sommée de choisir entre son armée et sa justice.",
+      "periode": "Fin de siècle · 1894-1906",
+      "recit": [
+        "En 1894, la France vit encore sur la défaite de 1870 et la perte de l'Alsace-Lorraine. L'armée, qu'on ne discute pas, prépare la revanche et traque l'espion allemand. Un antisémitisme neuf, nourri par <i>La France juive</i> d'Édouard Drumont et par la presse nationaliste, fait des juifs des étrangers de l'intérieur. Quand le contre-espionnage récupère à l'ambassade d'Allemagne un bordereau (<span class=\"glose\">liste des pièces jointes à un envoi</span>) énumérant des secrets livrés, il faut un coupable : l'écriture ressemble à celle d'un capitaine alsacien et juif, Alfred Dreyfus.",
+        "Arrêté le 15 octobre 1894, condamné en décembre à huis clos sur un dossier secret que la défense n'a jamais vu, il est dégradé et déporté à perpétuité à l'île du Diable. L'erreur judiciaire devient l'Affaire quand le colonel Picquart, nouveau chef du renseignement militaire, établit en 1896 que le bordereau est de la main du commandant Esterhazy — que sa hiérarchie couvre. Esterhazy acquitté, Zola publie <i>J'accuse…!</i> dans <i>L'Aurore</i> le 13 janvier 1898 ; le mot intellectuel naît de la pétition qui suit.",
+        "Le pays se coupe en deux. L'aveu puis le suicide du colonel Henry, faussaire du dossier, rendent en août 1898 la révision inévitable. Le conseil de guerre de Rennes le recondamne pourtant le 9 septembre 1899, à dix ans, avec circonstances atténuantes : verdict absurde en trahison, qui avoue le doute des juges. Gracié, amnistié en 1900, il n'est réhabilité que le 12 juillet 1906, quand la Cour de cassation casse sans renvoi (<span class=\"glose\">annule sans nouveau procès</span>).",
+        "Les dreyfusards ont gagné, et ils gouvernent : Ligue des droits de l'homme en 1898, bloc des gauches, contrôle des congrégations, épuration républicaine de l'armée, séparation des Églises et de l'État en 1905. Le camp battu s'organise autour de l'Action française et lègue au siècle suivant un nationalisme antisémite dont Vichy fera un programme d'État. Les historiens ne discutent plus l'innocence de Dreyfus ; ils discutent les mobiles de l'état-major, entre antisémitisme assumé et réflexe de corps."
+      ],
+      "chute": "Le 17 novembre 2025, une loi a fait de Dreyfus un général de brigade : la République répare encore ce qu'elle mit douze ans à reconnaître.",
+      "ressources": [
+        {
+          "titre": "Assemblée nationale, « 1894-1906 : l'affaire Dreyfus »",
+          "url": "https://www.assemblee-nationale.fr/dyn/histoire-et-patrimoine/troisieme-republique/l-affaire-dreyfus",
+          "note": "Le fil parlementaire de l'affaire, de la loi d'amnistie de 1900 aux votes de réhabilitation de juillet 1906."
+        },
+        {
+          "titre": "Émile Zola, « J'accuse…! », <i>L'Aurore</i>, 13 janvier 1898",
+          "url": "https://fr.wikisource.org/wiki/J%E2%80%99accuse%E2%80%A6!",
+          "note": "Le texte intégral de la lettre au président Faure, avec la liste nominative de ses accusations."
+        },
+        {
+          "titre": "LOI n° 2025-1079 du 17 novembre 2025 élevant Alfred Dreyfus au grade de général de brigade",
+          "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000052587493",
+          "note": "Un article unique, pour mesurer ce que l'État français jugeait encore à réparer en 2025."
+        },
+        {
+          "titre": "Christophe Charle, « Émile Zola et la naissance des intellectuels » (Canal-U, 2024)",
+          "url": "https://www.canal-u.tv/chaines/fudop/emile-zola-et-la-naissance-des-intellectuels",
+          "note": "Conférence filmée en accès libre sur le moment où le mot intellectuel devient une fonction politique."
+        },
+        {
+          "titre": "Vincent Duclert, <i>L'affaire Dreyfus</i>, La Découverte, coll. « Repères », 5<sup>e</sup> éd., 2025",
+          "url": null,
+          "note": "La synthèse de référence, par l'historien qui a rouvert les archives militaires du dossier."
+        }
+      ]
     }
   ],
   "manquants": []
