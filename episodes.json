@@ -585,6 +585,48 @@
           "note": "La synthèse de référence, par l'historien qui a rouvert les archives militaires du dossier."
         }
       ]
+    },
+    {
+      "numero": 15,
+      "date": "2026-08-24",
+      "slug": "varennes",
+      "titre": "Varennes, ou le roi qui laissa sa lettre sur la table",
+      "chapo": "Nuit du 20 juin 1791 : le roi quitte Paris en secret, et la monarchie constitutionnelle perd la seule chose qui la tenait, la parole du roi.",
+      "periode": "Révolution française · 20-25 juin 1791",
+      "recit": [
+        "Depuis octobre 1789, Louis XVI vit aux Tuileries sous la garde de Paris. La constitution civile du clergé, en juillet 1790, impose aux prêtres un serment que la moitié refuse : le roi très catholique se voit ratifiant un schisme. Le 18 avril 1791, la foule l'empêche d'aller communier à Saint-Cloud auprès d'un réfractaire <span class=\"glose\">(un prêtre ayant refusé ce serment)</span> : il se sait prisonnier. La reine et Bouillé, qui commande les troupes de l'Est, organisent le départ.",
+        "Dans la nuit du 20 au 21 juin 1791, la famille royale quitte Paris sous de faux passeports, non pour l'exil mais pour Montmédy, où une armée fidèle doit lui permettre d'imposer la révision de la Constitution. Retardée, privée de ses escortes, la berline est repérée à Sainte-Menehould par le maître de poste Drouet. Arrêté à Varennes la nuit suivante, il rentre à Paris le 25 juin entre deux haies muettes : applaudir comme insulter est interdit. Il avait laissé une Déclaration désavouant une Constitution qui ne laissait au roi, écrivait-il, que « le vain simulacre de la royauté ».",
+        "L'Assemblée le suspend, puis choisit de mentir : il aurait été enlevé, et les décrets des 15 et 16 juillet le disculpent. Le 17, au Champ-de-Mars, la foule qui pétitionne pour sa déchéance est fusillée sous la loi martiale, une cinquantaine de morts ; les modérés quittent les Jacobins pour fonder les Feuillants, un courant républicain naît. Le 27 août, à Pillnitz, l'Autriche et la Prusse évoquent une intervention. Le 14 septembre, Louis XVI jure la Constitution.",
+        "Elle vivra onze mois. Le régime reposait sur la parole d'un roi dont on savait ce qu'elle valait : la guerre est déclarée en avril 1792, l'insurrection du 10 août emporte le trône, la royauté est abolie le 21 septembre. Timothy Tackett fait de juin 1791 la matrice de la peur du complot qui nourrira la Terreur ; d'autres objectent que les républicains restaient une poignée."
+      ],
+      "chute": "Varennes n'a rien renversé sur le moment : l'épisode a prouvé que le roi ne croyait pas au régime qu'il avait juré, et aucun régime ne survit à cela.",
+      "ressources": [
+        {
+          "titre": "Déclaration du Roi adressée à tous les Français, à sa sortie de Paris (juin 1791)",
+          "url": "https://fr.wikisource.org/wiki/D%C3%A9claration_du_Roi_adress%C3%A9e_%C3%A0_tous_les_Fran%C3%A7ais,_%C3%A0_sa_sortie_de_Paris",
+          "note": "La source primaire : le texte laissé aux Tuileries, où Louis XVI dit lui-même pourquoi il part."
+        },
+        {
+          "titre": "Archives parlementaires, séance du 21 juin 1791 : lecture de la déclaration du roi",
+          "url": "https://archives-parlementaires.persee.fr/prt/67ad67b3-e868-4dc8-86d8-760cbf589fa7",
+          "note": "Le compte rendu de la séance, interruptions des députés comprises : la réaction à chaud de l'Assemblée."
+        },
+        {
+          "titre": "Le retour de Varennes à Paris (L'Histoire par l'image)",
+          "url": "https://histoire-image.org/etudes/retour-varennes-paris",
+          "note": "L'estampe de Prieur commentée : ce que le silence imposé du 25 juin dit du basculement."
+        },
+        {
+          "titre": "Varennes : l'échec de la fuite du roi Louis XVI (1791), podcast T'as qui en Histoire ?",
+          "url": "https://podcast.ausha.co/t-as-qui-en-histoire/125-varennes-l-echec-de-la-fuite-du-roi-louis-xvi-1791",
+          "note": "Quinze minutes par Stéphane Genêt, agrégé d'histoire, pour reprendre le fil sans rien lire."
+        },
+        {
+          "titre": "Timothy Tackett, <i>Le roi s'enfuit. Varennes et l'origine de la Terreur</i>, La Découverte, 2004",
+          "url": null,
+          "note": "L'ouvrage qui a fait de juin 1791 le moment où la peur du complot devient un ressort politique."
+        }
+      ]
     }
   ],
   "manquants": []
