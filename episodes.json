@@ -627,6 +627,48 @@
           "note": "L'ouvrage qui a fait de juin 1791 le moment où la peur du complot devient un ressort politique."
         }
       ]
+    },
+    {
+      "numero": 16,
+      "date": "2026-08-25",
+      "slug": "juin-40",
+      "titre": "Juin 40, ou la République qui vota sa fin",
+      "chapo": "En six semaines, l'armée française est battue ; en trois de plus, le régime a disparu.",
+      "periode": "Seconde Guerre mondiale · mai-juillet 1940",
+      "recit": [
+        "Depuis septembre 1939, la France est en guerre sans se battre. Sa stratégie tient dans la ligne Maginot et dans un calcul : tenir, laisser le blocus user l'Allemagne, l'emporter en 1941. Le général Gamelin, chef des armées, attend l'attaque par la Belgique. Les Alliés alignent autant de chars que la Wehrmacht ; ce qui leur manque est la doctrine, des blindés dispersés en appui de l'infanterie contre un adversaire qui a concentré les siens.",
+        "Le 10 mai 1940, l'offensive allemande tombe sur la Belgique. Gamelin y porte ses meilleures divisions ; les blindés ennemis passent par les Ardennes, réputées difficiles. La percée de Sedan, du 13 au 15 mai, ouvre une brèche que rien ne referme : les colonnes gagnent la Manche et coupent les Alliés en deux. Début juin, une seconde offensive enfonce la Somme ; le 14, la Wehrmacht entre dans Paris. Huit à dix millions de civils fuient, administrations comprises : l'État se disloque avec le front.",
+        "Le 16 juin, Paul Reynaud, qui veut poursuivre la guerre depuis l'Empire, cède la place à Pétain, partisan de l'armistice <span class=\"glose\">(fin des combats sans traité de paix, aux conditions du vainqueur)</span>. Le 17, le maréchal annonce à la radio qu'il faut cesser le combat ; le 18, de Gaulle appelle de Londres à ne pas s'arrêter. Le 22 juin, la France signe à Rethondes, dans le wagon de la capitulation allemande de 1918.",
+        "Les conditions sont lourdes : trois cinquièmes du territoire occupés, flotte désarmée, quatre cents millions de francs par jour d'occupation, 1,8 million de prisonniers retenus jusqu'en 1945, l'obligation de livrer les réfugiés allemands, souvent juifs et antinazis. Le 10 juillet, à Vichy, l'Assemblée nationale remet les pleins pouvoirs constituants à Pétain par 569 voix contre 80 : la Troisième République meurt de sa propre main. L'ordonnance du 9 août 1944 les annulera. Marc Bloch, fusillé en 1944, écrivait dès l'été 40 que rien n'avait été fatal, contre la thèse de Vichy d'un pays amolli ; les historiens le suivent."
+      ],
+      "chute": "Six semaines de guerre ont abattu une armée ; un vote a tué la République.",
+      "ressources": [
+        {
+          "titre": "Éric Alary, « L'Exode de mai-juin 1940, un pays en déroute et en panique »",
+          "url": "https://www.museeliberation-leclerc-moulin.paris.fr/ressources/dossiers-thematiques/lexode-de-mai-juin-1940-un-pays-en-deroute-et-en-panique-par-eric",
+          "note": "Un dossier de fond du Musée de la Libération de Paris sur les millions de civils jetés sur les routes, et sur l'État qui fuit avec eux."
+        },
+        {
+          "titre": "Les appels du général de Gaulle, Ordre de la Libération",
+          "url": "https://www.ordredelaliberation.fr/fr/les-appels-du-general-de-gaulle",
+          "note": "Le texte intégral des appels des 18 et 22 juin 1940 et le manuscrit de l'affiche « À tous les Français », inscrit au registre Mémoire du monde."
+        },
+        {
+          "titre": "Discours du maréchal Pétain du 17 juin 1940, Wikisource",
+          "url": "https://fr.wikisource.org/wiki/Discours_du_mar%C3%A9chal_P%C3%A9tain_du_17_juin_1940",
+          "note": "L'allocution qui annonce qu'il faut cesser le combat, à lire en entier pour voir comment la défaite y devient un devoir."
+        },
+        {
+          "titre": "INA, « L'Étrange Défaite », le livre historique et politique de Marc Bloch",
+          "url": "https://www.ina.fr/ina-eclaire-actu/marc-bloch-etrange-defaite-histoire-pantheon-guerre-resistance",
+          "note": "Une archive audiovisuelle et sa mise en contexte : l'historien-soldat expliquant l'effondrement quelques semaines après l'avoir vécu."
+        },
+        {
+          "titre": "Jean Sagnes, « Le refus républicain : les quatre-vingts parlementaires qui dirent non à Vichy le 10 juillet 1940 », <i>Revue d'histoire moderne et contemporaine</i>, 1991",
+          "url": "https://www.persee.fr/doc/rhmc_0048-8003_1991_num_38_4_1607",
+          "note": "L'étude de référence sur la minorité qui refusa les pleins pouvoirs, en accès libre sur Persée."
+        }
+      ]
     }
   ],
   "manquants": []
