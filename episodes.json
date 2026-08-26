@@ -669,6 +669,48 @@
           "note": "L'étude de référence sur la minorité qui refusa les pleins pouvoirs, en accès libre sur Persée."
         }
       ]
+    },
+    {
+      "numero": 17,
+      "date": "2026-08-26",
+      "slug": "waterloo",
+      "titre": "Waterloo, ou la paix signée avant la bataille",
+      "chapo": "Juin 1815 : Napoléon est revenu de l'île d'Elbe, l'Europe entière s'est liguée contre lui, et une journée au sud de Bruxelles solde vingt-trois ans de guerres.",
+      "periode": "Cent-Jours · 18 juin 1815",
+      "recit": [
+        "Abdiqué en 1814, Napoléon régnait sur l'île d'Elbe. Louis XVIII gouvernait par la Charte, mais les émigrés rentrés et la peur de perdre les biens nationaux avaient lassé le pays. Débarqué au golfe Juan le 1<sup>er</sup> mars 1815, l'Empereur atteignit Paris sans un coup de feu, l'armée passant dans son camp. Vienne le mit hors la loi dès le 13 mars et leva une septième coalition : il lui fallait vaincre avant qu'elle ne s'ébranle.",
+        "Il attaqua en Belgique pour séparer les seules armées prêtes, celles de Wellington et du Prussien Blücher. Le 16 juin, il battit Blücher à Ligny sans le détruire et lança Grouchy à sa poursuite. Le 18, devant Mont-Saint-Jean, ses 72 000 hommes butèrent sur les 68 000 de Wellington, qui tint jusqu'aux Prussiens. Ils parurent en fin de journée sur le flanc droit, quand Grouchy les cherchait ailleurs. La Garde échoua, l'armée se débanda. Les historiens débattent encore des fautes de Ney, de Grouchy et d'un Empereur diminué.",
+        "Le 22 juin, la Chambre des représentants arracha l'abdication : Napoléon II ne régna jamais. Louis XVIII rentra début juillet ; l'Empereur se rendit aux Anglais et mourut à Sainte-Hélène en 1821. Dans le Midi, la Terreur blanche (<span class=\"glose\">les représailles royalistes, blanc étant la couleur des Bourbons</span>) fit trois à cinq cents morts ; une Chambre ultraroyaliste fit fusiller le maréchal Ney et bannir les régicides. Le second traité de Paris, le 20 novembre 1815, ramena la France aux frontières de 1790, lui imposa 700 millions d'indemnité et l'occupation de 150 000 soldats étrangers, levée en 1818.",
+        "L'ordre européen, lui, ne sortit pas de la bataille : l'Acte final de Vienne était signé depuis le 9 juin. Waterloo le scella — équilibre entre puissances, légitimité monarchique, Confédération germanique à la place du Saint-Empire. Ce système tint près d'un siècle, et la France y fut réadmise dès 1818, sans retrouver son hégémonie. Libéraux puis républicains firent de la défaite une gloire volée aux rois revenus dans les fourgons de l'étranger."
+      ],
+      "chute": "On y revient parce que c'est la dernière fois qu'une seule journée a fixé la carte de l'Europe pour un siècle.",
+      "ressources": [
+        {
+          "titre": "Jean-Marc Largeaud, « Les temps retrouvés de Waterloo », <i>Revue d'histoire du XIX<sup>e</sup> siècle</i>, 2002",
+          "url": "https://journals.openedition.org/rh19/431",
+          "note": "Article en accès libre sur la façon dont la France a retourné sa défaite en gloire, de 1815 à 1914."
+        },
+        {
+          "titre": "Traité de Paris du 20 novembre 1815, texte intégral",
+          "url": "https://fr.wikisource.org/wiki/Trait%C3%A9_de_Paris_(1815)",
+          "note": "La source primaire : y lire les articles sur les frontières de 1790, les 700 millions et les 150 000 occupants."
+        },
+        {
+          "titre": "Henry Houssaye, « La Seconde abdication », <i>Revue des Deux Mondes</i>, 1903",
+          "url": "https://fr.wikisource.org/wiki/La_Seconde_abdication",
+          "note": "Le récit classique, numérisé, des journées parisiennes entre la nouvelle de la défaite et le départ pour Malmaison."
+        },
+        {
+          "titre": "« La bataille de Waterloo, vue depuis le Mont Saint-Jean », estampe coloriée, Londres, 1816",
+          "url": "https://essentiels.bnf.fr/fr/image/3f16d069-a433-402d-87d7-386633251a2b-bataille-waterloo",
+          "note": "Une image gravée à Londres l'année suivante, pour voir comment les vainqueurs ont aussitôt mis la journée en scène."
+        },
+        {
+          "titre": "Emmanuel de Waresquiel, <i>Cent Jours. La tentation de l'impossible, mars-juillet 1815</i>, Fayard, 2008",
+          "url": null,
+          "note": "Le livre de référence sur l'épisode, qui démonte la légende et rend leur épaisseur aux deux France de 1815."
+        }
+      ]
     }
   ],
   "manquants": []
