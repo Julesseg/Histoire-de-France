@@ -711,6 +711,48 @@
           "note": "Le livre de référence sur l'épisode, qui démonte la légende et rend leur épaisseur aux deux France de 1815."
         }
       ]
+    },
+    {
+      "numero": 18,
+      "date": "2026-08-27",
+      "slug": "liberation",
+      "titre": "La Libération, ou la République qui n'avait jamais cessé",
+      "chapo": "Été 1944 : les Alliés débarquent, mais la vraie bataille est de savoir qui gouvernera la France ensuite.",
+      "periode": "Seconde Guerre mondiale · juin 1944 - octobre 1945",
+      "recit": [
+        "Au printemps 1944, la France occupée depuis quatre ans voit deux pouvoirs se disputer la suite. Vichy n'administre plus qu'un pays entièrement tenu par l'armée allemande. À Alger, Charles de Gaulle, chef de la France libre, a rallié la Résistance intérieure et transformé le 3 juin son comité en Gouvernement provisoire de la République française. Roosevelt refuse de le reconnaître et envisage une administration militaire alliée (<span class=\"glose\">l'AMGOT, régime prévu pour les territoires ennemis occupés</span>). L'enjeu de l'été n'est pas seulement de chasser les Allemands, mais de savoir qui gouvernera.",
+        "Le débarquement du 6 juin en Normandie ouvre la campagne. Huit jours plus tard, de Gaulle passe quelques heures à Bayeux, y installe un commissaire de la République et repart : le fait accompli répond à Washington. Le 15 août, un second débarquement lance l'armée française d'Afrique depuis la Provence. Le 19 août Paris s'insurge ; la division blindée de Leclerc y entre et von Choltitz capitule le 25. Les combats durent pourtant jusqu'en mai 1945, de Colmar à l'Atlantique.",
+        "Le sort du régime était réglé d'avance. L'ordonnance du 9 août 1944 pose que la forme du gouvernement de la France est et demeure la République, qu'en droit celle-ci n'a pas cessé d'exister, et que les actes pris depuis juin 1940 sont nuls : rien à proclamer, seulement à annuler. Les Alliés reconnaissent le gouvernement provisoire le 23 octobre. Vient l'épuration, judiciaire et sommaire : les historiens retiennent environ neuf mille exécutions extrajudiciaires, chiffre discuté. Viennent surtout les réformes du programme de la Résistance : le vote des femmes en avril 1945, la Sécurité sociale en octobre, la nationalisation de la Banque de France et des grandes entreprises.",
+        "Le 21 octobre 1945, les électeurs enterrent la III<sup>e</sup> République à plus de quatre-vingt-quinze pour cent et élisent une Assemblée constituante. De Gaulle, en désaccord avec le régime d'assemblée qui s'y dessine, démissionne le 20 janvier 1946 : la IV<sup>e</sup> République naîtra sans lui."
+      ],
+      "chute": "Ce que la France tient pour acquis, la Sécurité sociale, le suffrage vraiment universel, l'idée que Vichy fut une parenthèse sans existence légale, s'est décidé en ces quinze mois.",
+      "ressources": [
+        {
+          "titre": "Ordonnance du 9 août 1944 relative au rétablissement de la légalité républicaine",
+          "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006071212",
+          "note": "Le texte intégral, où l'on lit noir sur blanc que la République n'a jamais cessé d'exister et que Vichy est nul de plein droit."
+        },
+        {
+          "titre": "Le GPRF et la restauration de la légalité républicaine (Assemblée nationale)",
+          "url": "https://www.assemblee-nationale.fr/dyn/histoire-et-patrimoine/deuxieme-guerre-mondiale/gouvernement-provisoire-de-la-republique-francaise-et-restauration-de-la-legalite-republicaine",
+          "note": "Le fil institutionnel d'août 1944 à novembre 1945, ordonnance par ordonnance, avec les textes reproduits."
+        },
+        {
+          "titre": "Henry Rousso, L'épuration en France : une histoire inachevée",
+          "url": "https://www.persee.fr/doc/xxs_0294-1759_1992_num_33_1_2491",
+          "note": "L'article qui a rouvert le dossier des bilans chiffrés de l'épuration ; en accès libre sur Persée."
+        },
+        {
+          "titre": "Procès de criminels de guerre et exécutions, actualités filmées du 20 juillet 1945 (INA)",
+          "url": "https://fresques.ina.fr/ouest-en-memoire/fiche-media/Region00204/proces-de-criminels-de-guerre-et-executions.html",
+          "note": "Deux minutes d'archive sur la justice de l'épuration telle qu'on la montrait alors au public."
+        },
+        {
+          "titre": "Jean-Pierre Azéma, <i>De Munich à la Libération, 1938-1944</i>, Seuil, 1979",
+          "url": null,
+          "note": "Le volume classique de la Nouvelle histoire de la France contemporaine, encore la meilleure synthèse d'ensemble."
+        }
+      ]
     }
   ],
   "manquants": []
