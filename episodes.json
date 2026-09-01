@@ -753,6 +753,48 @@
           "note": "Le volume classique de la Nouvelle histoire de la France contemporaine, encore la meilleure synthèse d'ensemble."
         }
       ]
+    },
+    {
+      "numero": 19,
+      "date": "2026-09-01",
+      "slug": "deuxieme-republique",
+      "titre": "La Deuxième République",
+      "chapo": "Février 1848 : la monarchie tombe en trois jours, et la République qui la remplace ne dure pas quatre ans.",
+      "periode": "Après la monarchie de Juillet · 1848-1852",
+      "recit": [
+        "En 1847, la monarchie de Juillet ne fait voter que les deux cent quarante mille Français les plus imposés ; privée de réunions publiques, l'opposition réclame l'abaissement du cens <span class=\"glose\">(le seuil d'impôt qui ouvrait le droit de vote)</span> dans des banquets. Le ministre de Louis-Philippe, Guizot, interdit celui du 22 février 1848 : la troupe tire boulevard des Capucines le 23 au soir, le roi abdique le 24, Lamartine proclame la République.",
+        "Le gouvernement provisoire décrète le suffrage universel masculin, qui porte le corps électoral à plus de neuf millions d'hommes, ouvre des ateliers nationaux et, le 27 avril, abolit l'esclavage dans les colonies sur le rapport de Victor Schœlcher : deux cent cinquante mille affranchis, l'indemnité allant aux anciens maîtres. L'assemblée élue en avril, modérée, les ferme ; du 23 au 26 juin, Cavaignac écrase les barricades parisiennes, plusieurs milliers de morts.",
+        "La constitution du 4 novembre dresse face à face une assemblée unique et un président élu au suffrage direct ; son article 45 interdit à celui-ci de se succéder à lui-même. Le 10 décembre, Louis-Napoléon Bonaparte, neveu de l'Empereur, l'emporte avec 74 % des voix. La majorité conservatrice de 1849 livre l'école à l'Église par la loi Falloux, puis rogne le suffrage universel le 31 mai 1850 : près de trois millions d'électeurs rayés.",
+        "L'Assemblée ayant refusé de réviser l'article 45, Bonaparte agit le 2 décembre 1851 : la capitale occupée, chambre dissoute, députés arrêtés, suffrage universel rétabli par décret. Paris résiste peu ; le Centre et le Sud-Est se soulèvent, insurrection que les vainqueurs appelèrent jacquerie et les vaincus défense de la loi, longtemps négligée avant Maurice Agulhon. Des commissions mixtes poursuivent vingt-sept mille personnes, six mille transportées en Algérie. Un plébiscite l'approuve par sept millions et demi de oui ; un an plus tard, jour pour jour, l'Empire est rétabli. Le suffrage universel et l'abolition de l'esclavage, eux, ne furent jamais repris."
+      ],
+      "chute": "Quatre ans auront suffi pour fixer deux héritages : un droit de vote qu'aucun régime n'osa reprendre, et l'idée qu'un homme élu par tout le peuple peut s'en servir contre les assemblées.",
+      "ressources": [
+        {
+          "titre": "Assemblée nationale, « 1848-1852, la II<sup>e</sup> République »",
+          "url": "https://www2.assemblee-nationale.fr/decouvrir-l-assemblee/juniors/histoire/1848-1852-la-iie-republique",
+          "note": "Le récit institutionnel du régime, du décret sur le suffrage universel au coup d'État, par l'institution qui en est issue."
+        },
+        {
+          "titre": "Constitution du 4 novembre 1848, texte intégral sur Wikisource",
+          "url": "https://fr.wikisource.org/wiki/Constitution_du_4_novembre_1848",
+          "note": "La source primaire : l'assemblée unique, le président élu au suffrage direct, et l'article 45 qui mena au 2 décembre."
+        },
+        {
+          "titre": "Maurice Agulhon, « La résistance au coup d'État en province. Esquisse d'historiographie », <i>Revue d'histoire moderne et contemporaine</i>, 1974",
+          "url": "https://www.persee.fr/doc/rhmc_0048-8003_1974_num_21_1_2274",
+          "note": "Comment le soulèvement de décembre 1851 fut raconté tour à tour comme une jacquerie et comme une défense du droit."
+        },
+        {
+          "titre": "Jean-Claude Farcy, base de données « Poursuivis à la suite du coup d'État de décembre 1851 », université de Bourgogne",
+          "url": "https://poursuivis-decembre-1851.fr/index.php?page=presentation%2Fsources",
+          "note": "Les dossiers nominatifs de la répression, reconstitués d'après les registres des Archives nationales."
+        },
+        {
+          "titre": "Maurice Agulhon, <i>1848 ou l'apprentissage de la République, 1848-1852</i>, Seuil, 1973",
+          "url": null,
+          "note": "Le livre de référence, qui lit ces quatre années comme le moment où la politique gagne les campagnes françaises."
+        }
+      ]
     }
   ],
   "manquants": []
