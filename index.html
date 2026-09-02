@@ -26,17 +26,12 @@
     font-family:Georgia,'Iowan Old Style','Times New Roman',serif;
     font-size:19px; line-height:1.65; -webkit-font-smoothing:antialiased;
   }
-  /* Le document lui-même ne défile jamais : chaque vue est un panneau
-     plein écran qui défile pour son propre compte. Chaque épisode s'ouvre
-     donc à son propre début, sans hériter de la position du précédent. */
-  html,body{height:100%;}
-  body{overflow:hidden;}
-  .vue{
-    position:absolute; inset:0;
-    overflow-y:auto; -webkit-overflow-scrolling:touch;
-    overscroll-behavior:contain;
-    display:none;
-  }
+  /* C'est le document qui défile, et non un panneau interne : Safari iOS
+     ne réduit ses barres d'outils que sur le défilement de la page elle-même.
+     Une seule vue est visible à la fois — les autres sont en display:none et
+     ne pèsent donc pas sur la hauteur — et le routeur remet le défilement à
+     zéro pour qu'un épisode s'ouvre toujours à son début. */
+  .vue{display:none;}
   .vue.ouverte{display:block;}
   /* La marge haute dégage la barre d'état du téléphone
      (env(safe-area-inset-top), non nul grâce à viewport-fit=cover). */
@@ -315,12 +310,14 @@
       Array.prototype.forEach.call(app.querySelectorAll('.vue'), function (v) {
         v.classList.toggle('ouverte', v === vue);
       });
-      /* Chaque panneau défile pour son propre compte : on le remet à zéro
-         pour qu'un épisode s'ouvre toujours à son début. */
-      vue.scrollTop = 0;
+      /* Sans quoi un épisode hériterait de la position du précédent. */
+      window.scrollTo(0, 0);
       document.title = vue.dataset.titre || base;
     }
 
+    /* Le routeur place lui-même le défilement ; le navigateur ne doit pas
+       le rétablir par-dessus au retour arrière. */
+    if ('scrollRestoration' in history) history.scrollRestoration = 'manual';
     window.addEventListener('hashchange', router);
     router();
   }
