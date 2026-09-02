@@ -795,6 +795,48 @@
           "note": "Le livre de référence, qui lit ces quatre années comme le moment où la politique gagne les campagnes françaises."
         }
       ]
+    },
+    {
+      "numero": 20,
+      "date": "2026-09-02",
+      "slug": "guerre-algerie",
+      "titre": "La guerre d'Algérie, 1954-1962",
+      "chapo": "Huit ans de guerre pour un territoire que la France disait français : au bout, l'indépendance algérienne et une République née du conflit.",
+      "periode": "Décolonisation · 1954-1962",
+      "recit": [
+        "L'Algérie n'est pas une colonie comme les autres : conquise à partir de 1830, découpée en départements français depuis 1848, elle compte en 1954 un million d'Européens face à neuf millions de musulmans écartés de la citoyenneté. Les réformes promises après la répression de Sétif en 1945 n'ont pas eu lieu ; Diên Biên Phu montre que l'empire cède. Le 1<sup>er</sup> novembre 1954, le Front de libération nationale déclenche une vague d'attentats, la Toussaint rouge, et réclame l'indépendance.",
+        "Paris refuse le mot de guerre et parle de maintien de l'ordre. En mars 1956, les pouvoirs spéciaux envoient le contingent <span class=\"glose\">(les appelés du service militaire)</span>, jusqu'à quatre cent mille hommes. La bataille d'Alger, en 1957, livre les pouvoirs de police à l'armée : le FLN urbain est brisé, au prix d'une torture dont la révélation déchire la métropole. La IV<sup>e</sup> République, incapable de trancher, tombe le 13 mai 1958 : un coup de force des Européens et des militaires d'Alger la renverse et rappelle de Gaulle.",
+        "Celui-ci glisse de l'Algérie française à l'autodétermination, annoncée le 16 septembre 1959 et approuvée par référendum en janvier 1961. Contre lui se dressent la semaine des barricades, le putsch des généraux d'avril 1961, les attentats de l'OAS, et la répression du 17 octobre 1961 à Paris. Les accords d'Évian, signés le 18 mars 1962, fixent le cessez-le-feu et des garanties aux Européens. Les Français les approuvent le 8 avril, les Algériens le 1<sup>er</sup> juillet ; l'indépendance est proclamée à Alger le 5.",
+        "Le bilan reste disputé : de 250 000 à 400 000 morts algériens selon les historiens, un million et demi selon Alger, et quelque 25 000 militaires français. Près d'un million de pieds-noirs traversent la Méditerranée ; des dizaines de milliers de harkis <span class=\"glose\">(supplétifs algériens de l'armée française)</span> sont massacrés. La France en sort avec un régime neuf, l'Algérie avec un État à parti unique. Et il a fallu attendre 1999 pour que le Parlement français écrive guerre d'Algérie là où il disait opérations en Afrique du Nord."
+      ],
+      "chute": "Plus de soixante ans après, la France et l'Algérie se parlent encore par cette guerre.",
+      "ressources": [
+        {
+          "titre": "Guy Pervillé, « De Gaulle et le problème algérien en 1958 »",
+          "url": "https://www.persee.fr/doc/outre_1631-0438_2008_num_95_358_4314",
+          "note": "Article de fond en accès libre sur la question la plus débattue : de Gaulle avait-il un plan en revenant au pouvoir ?"
+        },
+        {
+          "titre": "Déclaration du général de Gaulle du 18 mars 1962",
+          "url": "https://fresques.ina.fr/de-gaulle/fiche-media/Gaulle00076/declaration-du-18-mars-1962-cessez-le-feu-en-algerie.html",
+          "note": "L'archive INA de l'allocution annonçant le cessez-le-feu : huit minutes pour justifier la fin de l'Algérie française."
+        },
+        {
+          "titre": "Les accords d'Évian, dispositions principales",
+          "url": "https://www.axl.cefan.ulaval.ca/afrique/algerie-accords_d'Evian.htm",
+          "note": "Le texte des accords article par article, du cessez-le-feu aux garanties promises aux Européens d'Algérie."
+        },
+        {
+          "titre": "18 octobre 1999, reconnaître la guerre d'Algérie",
+          "url": "https://www.cheminsdememoire.gouv.fr/fr/18-octobre-1999-reconnaitre-la-guerre-dalgerie",
+          "note": "Comment l'État français a mis trente-sept ans à renoncer au mot « opérations » : la fabrique d'une mémoire officielle."
+        },
+        {
+          "titre": "Benjamin Stora, <i>Histoire de la guerre d'Algérie (1954-1962)</i>, La Découverte",
+          "url": null,
+          "note": "La synthèse la plus courte et la plus sûre pour tenir les huit années d'un bout à l'autre."
+        }
+      ]
     }
   ],
   "manquants": []
