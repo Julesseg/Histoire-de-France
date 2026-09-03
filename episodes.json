@@ -837,6 +837,48 @@
           "note": "La synthèse la plus courte et la plus sûre pour tenir les huit années d'un bout à l'autre."
         }
       ]
+    },
+    {
+      "numero": 21,
+      "date": "2026-09-03",
+      "slug": "guerre-de-1870",
+      "titre": "De Sedan à Francfort",
+      "chapo": "En juillet 1870, l’Empire français déclare la guerre à la Prusse ; dix mois plus tard, il a disparu, l’Allemagne est unifiée et la frontière a reculé.",
+      "periode": "Guerre franco-allemande · 1870-1871",
+      "recit": [
+        "Depuis Sadowa, en 1866, la Prusse de Bismarck dominait l’Allemagne du Nord et Napoléon III réclamait en vain des compensations. La candidature d’un prince prussien au trône d’Espagne, retirée le 12 juillet 1870, ne suffit pas à Paris, qui exigea du roi Guillaume une renonciation définitive. Bismarck livra à la presse un récit tronqué de l’entrevue d’Ems ; la France déclara la guerre le 19 juillet. Les historiens n’y voient plus la seule machination de Bismarck : on voulait aussi la guerre à Paris.",
+        "L’Empire fut abattu en six semaines. Mal mobilisée et surclassée par l’artillerie allemande, l’armée française recula d’Alsace et de Lorraine, tandis que Bazaine s’enfermait dans Metz avec le gros des troupes. Le 2 septembre 1870, encerclé à Sedan, Napoléon III capitula, prisonnier avec son armée. La nouvelle emporta le régime : le 4 septembre, la République était proclamée à Paris et un gouvernement de Défense nationale poursuivit la guerre.",
+        "Elle dura quatre mois encore. Paris fut investi <span class=\"glose\">(encerclé, au sens militaire)</span> le 19 septembre, affamé et bombardé ; Gambetta, ministre de l’Intérieur, quitta la capitale en ballon pour lever en province des armées neuves, aussitôt battues. Metz capitula le 27 octobre. Le 18 janvier 1871, à Versailles, les princes allemands proclamèrent Guillaume I<sup>er</sup> empereur : l’unité allemande s’achevait sur le sol français. L’armistice suivit le 28 janvier ; l’Assemblée élue en février, monarchiste et résolue à la paix, chargea Thiers de négocier.",
+        "Le traité de Francfort, le 10 mai 1871, céda à l’Empire allemand l’Alsace, Belfort excepté, et le nord-est de la Lorraine avec Metz ; il imposa cinq milliards de francs-or, l’occupation durant jusqu’au paiement, achevé en 1873. Un droit d’option permit aux habitants de rester français à condition de partir ; des dizaines de milliers le firent. La défaite avait produit la Commune ; faute de roi acceptable, elle installa durablement la République. En Europe, la prépondérance française passait à l’Empire allemand, et les provinces perdues restèrent un contentieux jusqu’en 1914."
+      ],
+      "chute": "Rendues en 1918, l’Alsace et la Moselle gardent de ces quarante-sept années allemandes un droit local qui n’existe nulle part ailleurs en France.",
+      "ressources": [
+        {
+          "titre": "Traité de paix de Francfort, 10 mai 1871 (texte intégral)",
+          "url": "https://fr.wikisource.org/wiki/Trait%C3%A9_de_Francfort",
+          "note": "La source primaire : cession territoriale, cinq milliards, droit d’option, calendrier de l’occupation, article par article."
+        },
+        {
+          "titre": "La guerre franco-prussienne de 1870 — Chemins de mémoire",
+          "url": "https://www.defense.gouv.fr/chemins-memoire/histoire-memoires/ressources-historiques/1870-1871-guerre-franco-prussienne/guerre-franco-0",
+          "note": "Synthèse militaire du ministère des Armées, utile pour suivre l’enchaînement des défaites d’août 1870 à la capitulation de Paris."
+        },
+        {
+          "titre": "L’annexion de l’Alsace et de la Lorraine — L’Histoire par l’image",
+          "url": "https://histoire-image.org/etudes/annexion-alsace-lorraine",
+          "note": "Comment la perte des provinces est devenue une image, puis un ressort du nationalisme scolaire de la III<sup>e</sup> République."
+        },
+        {
+          "titre": "1871 : cession de l’Alsace-Moselle — RetroNews",
+          "url": "https://www.retronews.fr/conflits-et-relations-internationales/long-format/2018/03/14/1871-cession-de-lalsace-moselle",
+          "note": "La presse et les débats parlementaires de 1871, y compris la protestation des députés des départements cédés."
+        },
+        {
+          "titre": "Nicolas Bourguinat et Gilles Vogt, <i>La guerre franco-allemande de 1870. Une histoire globale</i>, Flammarion, 2020",
+          "url": null,
+          "note": "La synthèse de référence récente, qui replace le conflit dans les opinions et les chancelleries de toute l’Europe."
+        }
+      ]
     }
   ],
   "manquants": []
