@@ -879,6 +879,48 @@
           "note": "La synthèse de référence récente, qui replace le conflit dans les opinions et les chancelleries de toute l’Europe."
         }
       ]
+    },
+    {
+      "numero": 22,
+      "date": "2026-09-04",
+      "slug": "mai-68",
+      "titre": "Les événements de mai et juin 1968",
+      "chapo": "Une révolte étudiante devient en trois semaines la plus grande grève que la France ait connue, et met le régime gaulliste au bord de la chute.",
+      "periode": "V<sup>e</sup> République · mai-juin 1968",
+      "recit": [
+        "Au printemps 1968, la France va bien et s'ennuie : vingt ans de croissance, dix ans de gaullisme. Mais les effectifs universitaires ont explosé sans que rien suive. Le 22 mars, à Nanterre, des étudiants menés par Daniel Cohn-Bendit occupent l'administration contre l'arrestation de militants opposés à la guerre du Vietnam.",
+        "Début mai la faculté ferme, la contestation gagne la Sorbonne, que la police évacue : intrusion sans précédent dans une université. Les affrontements du Quartier latin culminent dans la nuit des barricades du 10 au 11 mai, dont la répression, suivie en direct à la radio, retourne l'opinion. Le 13 mai, étudiants et ouvriers défilent ensemble.",
+        "Le 14 mai, Sud-Aviation est occupée, Renault-Billancourt suit, puis tout le pays : sept à dix millions de grévistes, la plus grande grève de l'histoire française. Du 25 au 27 mai, Georges Pompidou négocie rue de Grenelle 35 % de hausse du SMIG (<span class=\"glose\">le salaire minimum d'alors, ancêtre du SMIC</span>), 10 % sur les autres salaires et la section syndicale d'entreprise ; Billancourt rejette ce protocole, qu'aucune partie n'avait signé. Le référendum qu'il annonce le 24 mai fait long feu ; de Gaulle part le 29 s'assurer de l'armée à Baden-Baden, dissout l'Assemblée le 30 et convoque des élections.",
+        "Les 23 et 30 juin, les gaullistes triomphent : un parti détient seul la majorité absolue pour la première fois sous la V<sup>e</sup> République. De Gaulle écarte pourtant Pompidou pour Maurice Couve de Murville et fait voter l'essentiel : la loi Faure du 12 novembre refonde l'université sur l'autonomie et la participation, celle du 27 décembre installe le syndicat dans l'entreprise. Son référendum sur les régions et le Sénat échoue en avril 1969 ; il démissionne le lendemain. Grenelle ouvre une décennie de négociation sociale ; la contestation de l'autorité nourrit les mouvements féministes, écologistes et régionalistes. Longtemps lu comme une révolution culturelle, Mai 68 est réexaminé depuis les années 1990 par son versant ouvrier."
+      ],
+      "chute": "Battu dans les urnes en trois semaines, le mouvement a pourtant fixé pour un demi-siècle l'université française, le syndicat en entreprise et le rapport des Français à l'autorité.",
+      "ressources": [
+        {
+          "titre": "Michelle Zancarini-Fournel, « Les interprétations de mai 68 : approche historiographique »",
+          "url": "https://www.persee.fr/doc/ihtp_0247-0101_1996_num_63_1_2914",
+          "note": "Bulletin de l'IHTP, 1996 : comment la lecture de l'événement s'est déplacée de l'explication à chaud à l'enquête d'historien."
+        },
+        {
+          "titre": "Loi n° 68-978 du 12 novembre 1968 d'orientation de l'enseignement supérieur",
+          "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000693185",
+          "note": "Le texte intégral de la loi Faure sur Légifrance : autonomie, participation et pluridisciplinarité, écrites noir sur blanc."
+        },
+        {
+          "titre": "INA, « 25-27 mai 1968 : les accords de Grenelle »",
+          "url": "https://www.ina.fr/ina-eclaire-actu/25-27-mai-1968-les-accords-de-grenelle",
+          "note": "L'archive vidéo de Pompidou détaillant les mesures au sortir de la négociation, replacée dans la crise sociale."
+        },
+        {
+          "titre": "Michel Miné, « Les apports de Mai 68 au droit du travail »",
+          "url": "https://theconversation.com/les-apports-de-mai-68-au-droit-du-travail-96570",
+          "note": "Un juriste retrace ce que Grenelle a durablement inscrit dans le code du travail, section syndicale en tête."
+        },
+        {
+          "titre": "Philippe Artières et Michelle Zancarini-Fournel (dir.), <i>68. Une histoire collective, 1962-1981</i>, La Découverte, 2008",
+          "url": null,
+          "note": "L'ouvrage de référence qui replace mai 68 dans une séquence longue et rend au versant ouvrier sa place."
+        }
+      ]
     }
   ],
   "manquants": []
