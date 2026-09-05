@@ -921,6 +921,48 @@
           "note": "L'ouvrage de référence qui replace mai 68 dans une séquence longue et rend au versant ouvrier sa place."
         }
       ]
+    },
+    {
+      "numero": 23,
+      "date": "2026-09-05",
+      "slug": "consulat",
+      "titre": "Bonaparte premier consul",
+      "chapo": "De Brumaire au sacre, cinq années où un général refait l'État français et change la République en monarchie.",
+      "periode": "Après la Révolution · 1799-1804",
+      "recit": [
+        "Le Directoire <span class=\"glose\">(le régime collégial issu de la Constitution de 1795)</span> se maintenait depuis quatre ans par coups d'État successifs : caisses vides, deuxième coalition victorieuse en Italie, Ouest insurgé. Sieyès voulait une constitution neuve et cherchait un général. Bonaparte, trente ans, vainqueur d'Italie, rentré d'Égypte sans son armée en octobre 1799, se présenta.",
+        "Le 18 brumaire an VIII (9 novembre 1799), le Conseil des Anciens transféra les assemblées à Saint-Cloud sous prétexte d'un complot jacobin et donna Paris à Bonaparte. Le lendemain, les Cinq-Cents faillirent le mettre hors la loi ; son frère Lucien, qui les présidait, y lança les grenadiers. Une minorité de députés vota la fin du Directoire. La Constitution du 22 frimaire, sans déclaration des droits, réserva au Premier consul l'initiative des lois et toutes les nominations, laissant un Tribunat discuter sans voter et un Corps législatif voter sans discuter. Le plébiscite annonça trois millions de oui ; Claude Langlois a montré en 1972 que Lucien avait doublé le chiffre.",
+        "Marengo, le 14 juin 1800, mena l'Autriche à la paix de Lunéville, l'Angleterre à celle d'Amiens en 1802 : la France sortait de dix ans de guerre. À l'intérieur, on installa les préfets, la Banque de France, les lycées, la Légion d'honneur ; le Concordat du 15 juillet 1801 rouvrit les églises en faisant nommer les évêques par le Premier consul. Les émigrés furent amnistiés. La même main rétablit l'esclavage le 20 mai 1802. Le Code civil fut promulgué le 21 mars 1804.",
+        "Le régime glissa vers l'hérédité : consulat à vie en août 1802, Empire le 18 mai 1804, sacre le 2 décembre. L'œuvre survécut. Préfets, Banque de France, lycées et Code civil — propriété absolue, état civil laïque, mais incapacité de la femme mariée — forment encore l'ossature du pays ; le Concordat régit les cultes jusqu'en 1905. Saint-Domingue gagna sa guerre et devint Haïti le 1<sup>er</sup> janvier 1804. Les historiens débattent encore : le Consulat a-t-il achevé la Révolution ou l'a-t-il confisquée ?"
+      ],
+      "chute": "Se marier, hériter, dépendre d'un préfet : la France vit encore sous des textes écrits entre Brumaire et le sacre.",
+      "ressources": [
+        {
+          "titre": "Constitution du 22 frimaire an VIII, texte intégral",
+          "url": "https://www.conseil-constitutionnel.fr/les-constitutions-dans-l-histoire/constitution-du-22-frimaire-an-viii",
+          "note": "La source primaire : on y lit noir sur blanc l'absence de déclaration des droits et la concentration des pouvoirs sur le Premier consul."
+        },
+        {
+          "titre": "Le coup d'État des 18 et 19 brumaire an VIII",
+          "url": "https://www.assemblee-nationale.fr/dyn/histoire-et-patrimoine/revolution-francaise/le-coup-d-etat-des-18-et-19-brumaire-an-viii",
+          "note": "Le récit de Saint-Cloud par l'Assemblée nationale, vu du côté des assemblées renversées."
+        },
+        {
+          "titre": "Claude Langlois, Le plébiscite de l'an VIII, ou le coup d'État du 18 pluviôse an VIII",
+          "url": "https://www.persee.fr/doc/ahrf_0003-4436_1972_num_207_1_4627",
+          "note": "L'article de 1972 qui a démonté la falsification des chiffres du plébiscite, répétés sans examen pendant cent soixante-dix ans."
+        },
+        {
+          "titre": "Paroles d'histoire, n° 189 : le bicentenaire de Napoléon, avec Aurélien Lignereux",
+          "url": "https://parolesdhistoire.fr/index.php/2021/04/05/189-le-bicentenaire-de-napoleon-avec-aurelien-lignereux/",
+          "note": "Un podcast gratuit sur l'état de la recherche napoléonienne et sur ce que commémorer Napoléon veut dire aujourd'hui."
+        },
+        {
+          "titre": "Thierry Lentz, <i>Le Grand Consulat, 1799-1804</i>, Fayard, 1999",
+          "url": null,
+          "note": "La synthèse de référence sur ces cinq années longtemps traitées comme un simple entracte avant l'Empire."
+        }
+      ]
     }
   ],
   "manquants": []
