@@ -963,6 +963,48 @@
           "note": "La synthèse de référence sur ces cinq années longtemps traitées comme un simple entracte avant l'Empire."
         }
       ]
+    },
+    {
+      "numero": 24,
+      "date": "2026-09-06",
+      "slug": "front-populaire",
+      "titre": "La victoire du Front populaire",
+      "chapo": "Au printemps 1936, une coalition de gauche gagne les élections dans un pays qui a peur du fascisme et de la crise ; en un mois, elle change le travail en France.",
+      "periode": "Entre-deux-guerres · 1934-1938",
+      "recit": [
+        "La crise de 1929 atteint la France tard et s'y installe ; les gouvernements y répondent en baissant salaires et dépenses, ce qui aggrave le chômage. Le 6 février 1934, les ligues d'extrême droite marchent sur le Palais-Bourbon ; l'émeute fait une quinzaine de morts et convainc la gauche que le fascisme la menace. Socialistes et communistes, séparés depuis 1920, s'allient contre lui, les radicaux les rejoignent, et leur programme promet en janvier 1936 la dissolution des ligues et la semaine de quarante heures.",
+        "En mai 1936, la coalition emporte 386 sièges sur 608 ; les communistes, qui progressent le plus, la soutiennent sans y participer. Léon Blum, chef des socialistes, est le premier d'entre eux à gouverner. Avant même son entrée en fonction, deux millions de salariés cessent le travail et occupent les usines. Dans la nuit du 7 au 8 juin, patronat et CGT signent chez lui les accords Matignon : salaires relevés, délégués du personnel, liberté syndicale, conventions collectives.",
+        "Les lois suivent en quinze jours : deux semaines de congés payés, la semaine de quarante heures, bientôt des nationalisations. La guerre d'Espagne éclate en juillet ; retenu par les radicaux et par Londres, Blum choisit la non-intervention et se brouille avec les communistes. Les capitaux fuient, le franc est dévalué à l'automne, la production ne repart pas, et les historiens débattent encore du rôle qu'y joua la rigidité des quarante heures. Blum démissionne le 21 juin 1937, le Sénat lui refusant les pleins pouvoirs financiers.",
+        "Édouard Daladier, radical, qui gouverne à partir d'avril 1938, défait l'attelage : les quarante heures sont assouplies, ses décrets-lois <span class=\"glose\">(décrets ayant force de loi)</span> rétablissent les heures supplémentaires, la grève générale du 30 novembre 1938 échoue. L'acquis tient : cinq mille conventions collectives signées avant la guerre, les délégués du personnel, les congés payés jamais supprimés et depuis allongés. Deux ans auront donné au droit du travail français sa matrice, et à la gauche son modèle, l'union sur un programme commun."
+      ],
+      "chute": "Les congés payés n'ont jamais été repris, et aucune union des gauches ne s'est faite sans se mesurer à 1936.",
+      "ressources": [
+        {
+          "titre": "Alain Chatriot, « Le Front populaire et le droit du travail »",
+          "url": "https://www.jean-jaures.org/publication/le-front-populaire-et-le-droit-du-travail/",
+          "note": "Article de fond d'un historien du social sur ce que Matignon et les lois de juin ont durablement installé, et sur les reculs de 1938."
+        },
+        {
+          "titre": "Assemblée nationale, « Les lois adoptées en juin 1936 »",
+          "url": "https://www2.assemblee-nationale.fr/14/evenements/2016/80eme-anniversaire-de-la-victoire-du-front-populaire-3-mai-2016/les-lois-adoptees-en-juin-1936",
+          "note": "Le dossier parlementaire officiel, avec les textes et les votes, dont les congés payés adoptés par 563 voix contre une."
+        },
+        {
+          "titre": "INA, « 1936 : le Front populaire »",
+          "url": "https://www.ina.fr/ina-eclaire-actu/front-populaire-politique-gauche-1936-fascisme-misere",
+          "note": "Archives filmées et sonores : allocution de Blum formant son gouvernement, images des grèves, témoignages d'ouvriers sur les premiers congés."
+        },
+        {
+          "titre": "Jean-Charles Asselain, « Une erreur de politique économique : la loi de quarante heures de 1936 », <i>Revue économique</i>, 1974",
+          "url": "https://www.persee.fr/doc/reco_0035-2764_1974_num_25_4_408167",
+          "note": "Le réquisitoire économique classique contre les quarante heures, point de départ obligé du débat qui dure encore."
+        },
+        {
+          "titre": "Jean Vigreux, <i>Histoire du Front populaire. L'échappée belle</i>, Tallandier, 2016",
+          "url": null,
+          "note": "La synthèse française la plus récente, qui suit aussi la mémoire disputée de 1936 jusqu'à aujourd'hui."
+        }
+      ]
     }
   ],
   "manquants": []
