@@ -39,7 +39,9 @@ Chaque entrée du tableau `episodes` :
 - `slug` unique, minuscules, sans accent ni espace.
 - Balises HTML légères admises (`<i>`, `<sup>`, `<span class="glose">`) ;
   aucun guillemet non échappé qui casserait le JSON.
-- Le tri d'affichage se fait par `date`, pas par `numero`.
+- Le tri d'affichage se fait par `date`, pas par `numero` ; l'index est
+  anti-chronologique (le plus récent en tête), la navigation d'un épisode à
+  l'autre reste chronologique.
 - `manquants` (facultatif) : mêmes champs `numero`/`date`/`slug`/`titre`/`periode`
   pour signaler un épisode non archivé.
 
