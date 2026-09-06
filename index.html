@@ -200,15 +200,16 @@
     var n = episodes.length;
     var compte = n === 1 ? '1 épisode archivé' : n + ' épisodes archivés';
     if (manquants.length) compte += ', ' + manquants.length + ' en attente';
-    tete.appendChild(el('p', 'accroche', compte + '. Le plus récent en bas.'));
+    tete.appendChild(el('p', 'accroche', compte + '. Le plus récent en haut.'));
     page.appendChild(tete);
 
     var nav = el('nav', 'sommaire');
     /* Classement par date de parution, pas par numéro : un rattrapage peut
-       porter un numéro élevé et une date antérieure. */
+       porter un numéro élevé et une date antérieure. Ordre décroissant, pour
+       que le dernier épisode s'affiche en tête de l'index. */
     var tout = episodes.map(function (e) { return { date: e.date, ep: e }; })
       .concat(manquants.map(function (m) { return { date: m.date, m: m }; }))
-      .sort(function (a, b) { return a.date < b.date ? -1 : a.date > b.date ? 1 : 0; });
+      .sort(function (a, b) { return a.date < b.date ? 1 : a.date > b.date ? -1 : 0; });
 
     tout.forEach(function (entree) {
       var e = entree.ep || entree.m;
