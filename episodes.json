@@ -1005,6 +1005,48 @@
           "note": "La synthèse française la plus récente, qui suit aussi la mémoire disputée de 1936 jusqu'à aujourd'hui."
         }
       ]
+    },
+    {
+      "numero": 25,
+      "date": "2026-09-07",
+      "slug": "guerre-de-cent-ans",
+      "titre": "La guerre de Cent Ans",
+      "chapo": "Cent seize ans d'affrontement entre Valois et Plantagenêts pour la couronne de France : le royaume manque de se disloquer, et en ressort avec un impôt et une armée permanents.",
+      "periode": "Fin du Moyen Âge · 1337-1453",
+      "recit": [
+        "En 1328, Charles IV meurt sans fils : les Capétiens directs s'éteignent. Les barons écartent Édouard III d'Angleterre, petit-fils de Philippe le Bel par sa mère, au profit de Philippe VI de Valois. La querelle serait restée dynastique si le roi d'Angleterre n'avait été aussi duc de Guyenne, donc vassal du roi de France. En 1337, Philippe VI confisque la Guyenne ; Édouard III se proclame roi de France.",
+        "Les débuts sont désastreux : la chevalerie est fauchée à Crécy en 1346, Calais tombe l'année suivante, la peste noire frappe en 1348, et à Poitiers, en 1356, le roi Jean II est capturé. Le traité de Brétigny cède en 1360 une immense Aquitaine en pleine souveraineté contre l'abandon de la prétention anglaise au trône ; Charles V et Du Guesclin la reprennent presque toute dans les années 1370.",
+        "Tout se défait quand Charles VI sombre dans la folie en 1392 et qu'Armagnacs et Bourguignons se déchirent. Azincourt, en 1415, est un nouveau désastre, et l'assassinat de Jean sans Peur en 1419 jette la Bourgogne du côté anglais. Le traité de Troyes, le 21 mai 1420, déshérite le dauphin au profit d'Henri V ; les deux rois meurent en 1422 et Henri VI est proclamé roi des deux royaumes. Le retournement vient d'Orléans délivrée et du sacre de Charles VII à Reims en 1429, puis du traité d'Arras qui ramène la Bourgogne en 1435 ; Paris revient en 1436, la Normandie en 1450, la Guyenne après Castillon en 1453.",
+        "La guerre a fait l'État. Pour la financer, Charles VII obtient en 1439 que la taille (<span class=\"glose\">l'impôt direct pesant sur les non-nobles</span>) soit levée en permanence sans réunir les États généraux, et l'emploie dès 1445 à entretenir les compagnies d'ordonnance : impôt et armée permanents, matrice de la monarchie moderne. L'Angleterre, chassée du continent sauf de Calais, gardé jusqu'en 1558, bascule dans la guerre des Deux-Roses, et ses rois porteront le titre de roi de France jusqu'en 1801 ; l'expression même de guerre de Cent Ans est une invention scolaire du XIX<sup>e</sup> siècle."
+      ],
+      "chute": "De ces cent seize ans sont sortis l'idée d'une France à défendre et l'État pour la défendre.",
+      "ressources": [
+        {
+          "titre": "Jean-Marie Moeglin, « La Guerre de Cent Ans » : une création historiographique ?",
+          "url": "https://www.persee.fr/doc/crai_0065-0536_2010_num_154_2_92889",
+          "note": "Communication à l'Académie des inscriptions (2010) qui montre comment des historiens de la fin du XV<sup>e</sup> siècle ont fabriqué le récit d'une guerre unique."
+        },
+        {
+          "titre": "Les Chroniques de Sire Jean Froissart",
+          "url": "https://fr.wikisource.org/wiki/Les_Chroniques_de_Sire_Jean_Froissart",
+          "note": "Le grand récit du XIV<sup>e</sup> siècle, intégralement numérisé : Crécy et Poitiers vus par un contemporain acquis à la chevalerie."
+        },
+        {
+          "titre": "La naissance de la France moderne (BnF, Essentiels)",
+          "url": "https://essentiels.bnf.fr/fr/histoire/moyen-age/0ca78c4f-42f0-4b81-866f-247b8f0d57a9-derniers-feux-moyen-age-14e-15e-siecles/article/198b41d2-e7eb-4a1b-a88e-43655a94d35c-naissance-la-france-moderne",
+          "note": "Ce que la sortie de guerre installe durablement : taille, compagnies d'ordonnance, parlements de province."
+        },
+        {
+          "titre": "Chemins d'histoire, émission 170 : la guerre de Cent Ans, avec Jean-Marie Moeglin",
+          "url": "https://cheminsdhistoire.fr/emission170/",
+          "note": "Une heure d'entretien avec un médiéviste pour entendre l'état du débat plutôt que le roman national."
+        },
+        {
+          "titre": "Boris Bove, <i>Le Temps de la guerre de Cent Ans, 1328-1453</i>, Belin, 2009",
+          "url": null,
+          "note": "La synthèse de référence, qui cherche l'ordre social et politique derrière le désordre des batailles."
+        }
+      ]
     }
   ],
   "manquants": []
