@@ -1047,6 +1047,48 @@
           "note": "La synthèse de référence, qui cherche l'ordre social et politique derrière le désordre des batailles."
         }
       ]
+    },
+    {
+      "numero": 26,
+      "date": "2026-09-08",
+      "slug": "indochine",
+      "titre": "La France perd l'Indochine",
+      "chapo": "En 1945, la France veut reprendre sa colonie d'Asie. Neuf ans plus tard, elle en sort battue, et les États-Unis prennent sa place.",
+      "periode": "Décolonisation · 1945-1954",
+      "recit": [
+        "La capitulation japonaise d'août 1945 laisse l'Indochine sans maître. Le 2 septembre, Hô Chi Minh, chef du Viêt-minh nationaliste et communiste, proclame la République démocratique du Viêt Nam ; Paris entend restaurer sa souveraineté. Les accords Hô-Sainteny du 6 mars 1946 reconnaissent un État libre dans l'Union française (<span class=\"glose\">fédération censée remplacer l'empire colonial</span>), mais la conférence de Fontainebleau échoue en été. Le bombardement de Haïphong en novembre, au bilan civil toujours disputé, puis l'insurrection de Hanoï le 19 décembre, ouvrent le conflit.",
+        "Elle s'enlise. Faute de vaincre, la France installe en 1949 l'ex-empereur Bao Dai à la tête d'un État du Viêt Nam associé. La victoire de Mao la même année change tout : le Viêt-minh de Vo Nguyên Giap reçoit armes et sanctuaire chinois, et inflige au corps expéditionnaire le désastre de la Route coloniale 4 en 1950. Le conflit devient un front de guerre froide, et Washington en finance bientôt l'essentiel. En 1953, le général Navarre cherche la bataille décisive et fait occuper la cuvette de Diên Biên Phu ; une artillerie qu'on croyait impossible à hisser là y écrase le camp retranché, qui tombe le 7 mai 1954.",
+        "Investi le 18 juin, Pierre Mendès France se donne trente jours pour conclure ou démissionner. Les accords de Genève sont signés dans la nuit du 20 au 21 juillet 1954 : cessez-le-feu, partage provisoire du Viêt Nam au 17<sup>e</sup> parallèle, élections de réunification promises pour 1956, indépendance du Laos et du Cambodge. Les États-Unis et l'État du Viêt Nam refusent de signer la déclaration finale.",
+        "Les élections n'eurent jamais lieu. Au Sud s'installe un régime soutenu par Washington : les Américains héritent de la guerre, qui sera la leur jusqu'en 1975. La France perd son empire d'Asie. Le 1<sup>er</sup> novembre 1954, trois mois après Genève, le FLN déclenche l'insurrection algérienne, et des officiers rentrés d'Indochine y transposent leur doctrine de guerre révolutionnaire. La IV<sup>e</sup> République, qui n'avait jamais voulu appeler ce conflit une guerre, en sort discréditée."
+      ],
+      "chute": "De cette défaite sont sortis le Viêt Nam contemporain, la guerre américaine et, presque aussitôt, l'Algérie.",
+      "ressources": [
+        {
+          "titre": "1954, la fin de l'Indochine française",
+          "url": "https://www.cheminsdememoire.gouv.fr/fr/revue/1954-la-fin-de-lindochine-francaise-0",
+          "note": "Une synthèse du ministère des Armées sur l'année décisive, du plan Navarre aux accords de Genève."
+        },
+        {
+          "titre": "INA — Ouverture de la conférence de Genève, 13 mai 1954",
+          "url": "https://fresques.ina.fr/independances/fiche-media/Indepe00139/ouverture-de-la-conference-de-geneve.html",
+          "note": "Trente-trois secondes d'actualités filmées six jours après la chute du camp retranché, avec leur mise en contexte."
+        },
+        {
+          "titre": "ECPAD — La fin du conflit indochinois, entre décolonisation et guerre froide",
+          "url": "https://www.ecpad.fr/ressources/parcours-pedagogiques/la-fin-du-conflit-indochinois-entre-decolonisation-et-guerre-froide/",
+          "note": "Un parcours d'archives militaires et audiovisuelles de 1950 à 1954, cartes et textes officiels compris."
+        },
+        {
+          "titre": "Paul Isoart, Les accords de Genève (1954) et de Paris (1973)",
+          "url": "https://www.persee.fr/doc/ihtp_0769-4504_1996_num_34_1_2381",
+          "note": "Article des Cahiers de l'IHTP en accès libre, sur ce que les accords disaient vraiment et ce qu'ils taisaient."
+        },
+        {
+          "titre": "Hugues Tertrais, <i>La Piastre et le fusil. Le coût de la guerre d'Indochine, 1945-1954</i>, CHEFF, 2002",
+          "url": null,
+          "note": "L'ouvrage de référence sur le financement du conflit et la dépendance croissante envers l'aide américaine."
+        }
+      ]
     }
   ],
   "manquants": []
