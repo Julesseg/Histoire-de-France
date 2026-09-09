@@ -1089,6 +1089,48 @@
           "note": "L'ouvrage de référence sur le financement du conflit et la dépendance croissante envers l'aide américaine."
         }
       ]
+    },
+    {
+      "numero": 27,
+      "date": "2026-09-09",
+      "slug": "francois-ier",
+      "titre": "François I<sup>er</sup> face à Charles Quint",
+      "chapo": "Janvier 1515 : un roi de vingt ans hérite du trône et des guerres d'Italie. Trente-deux ans plus tard, l'Italie est perdue et l'État a changé de forme.",
+      "periode": "Renaissance · 1515-1547",
+      "recit": [
+        "Sacré à Reims en janvier 1515, François d'Angoulême a vingt ans et hérite d'une guerre commencée sans lui : depuis 1494, les rois de France descendent en Italie réclamer Naples, puis le Milanais.",
+        "Le 13 septembre 1515, à Marignan, il écrase les Suisses et prend Milan. Le concordat de Bologne, en 1516, lui donne la nomination aux évêchés et abbayes du royaume. Puis tout se retourne : en 1519, les électeurs allemands lui préfèrent Charles de Habsbourg, maître de l'Espagne et de l'Autriche, désormais Charles Quint, dont les terres l'encerclent. À Pavie, le 24 février 1525, l'armée française est détruite et le roi capturé ; prisonnier un an, il renie sitôt libre le traité arraché. La paix de Cambrai, en 1529, lui laisse la Bourgogne, lui coûte l'Italie et deux millions d'écus de rançon pour ses fils, otages en Espagne. Il s'allie au sultan Soliman contre l'empereur ; la trêve de Crépy, en 1544, ne lui rend rien.",
+        "Le royaume se transforme. L'ordonnance de Villers-Cotterêts, en 1539, impose le « langage maternel françois » aux actes de justice et oblige les curés à tenir registre des baptêmes, premier état civil. Le Trésor de l'Épargne <span class=\"glose\">(caisse centrale du royaume)</span> concentre les finances ; le Collège des lecteurs royaux, futur Collège de France, ouvre en 1530. Mais en octobre 1534, l'affaire des Placards, ces affiches contre la messe jusque sur la porte du roi, met fin aux ménagements envers les réformés et ouvre les bûchers.",
+        "François Ier meurt en mars 1547. Henri II reprend la guerre et la perd : au Cateau-Cambrésis, en 1559, la France renonce définitivement à l'Italie. Le concordat gouverne l'Église de France jusqu'à la Révolution ; les articles 110 et 111 de Villers-Cotterêts n'ont jamais été abrogés, et la Cour de cassation les applique encore ; la rupture de 1534 mène aux guerres de Religion. La mémoire du règne, rappellent les historiens, a grossi Marignan pour effacer Pavie."
+      ],
+      "chute": "De ce règne il reste moins une conquête qu'un État : une justice en français, une Église tenue par le roi, et deux siècles de rivalité avec les Habsbourg.",
+      "ressources": [
+        {
+          "titre": "BnF Essentiels — De Marignan à Pavie",
+          "url": "https://essentiels.bnf.fr/fr/histoire/temps-modernes/ccf48dc0-ff3c-4432-9b57-7e838f7a6721-francois-ier-entre-pouvoir-et-image/article/f9064241-b43c-4107-b265-229b765d5554-marignan-pavie",
+          "note": "Article de fond sur les deux batailles et sur la fabrication de l'image royale après 1525."
+        },
+        {
+          "titre": "Ordonnance de Villers-Cotterêts, article 111 (Légifrance)",
+          "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006452019",
+          "note": "Le texte de 1539 dans sa version en vigueur : la plus vieille disposition du droit français encore appliquée."
+        },
+        {
+          "titre": "La paix des Dames (1529)",
+          "url": "https://books.openedition.org/dameae/3371?lang=fr",
+          "note": "Chapitre en accès libre sur les clauses du traité de Cambrai et sur le coût réel de la rançon."
+        },
+        {
+          "titre": "Portrait de François I<sup>er</sup>, atelier de Jean Clouet",
+          "url": "https://collections.louvre.fr/en/ark:/53355/cl010062746",
+          "note": "Notice et image du portrait royal le plus diffusé, avec l'état de l'attribution."
+        },
+        {
+          "titre": "Didier Le Fur, <i>François I<sup>er</sup></i>, Perrin, 2015",
+          "url": null,
+          "note": "Biographie de référence, qui démonte la légende du roi-chevalier sans la remplacer par un procès."
+        }
+      ]
     }
   ],
   "manquants": []
