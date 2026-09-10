@@ -1131,6 +1131,48 @@
           "note": "Biographie de référence, qui démonte la légende du roi-chevalier sans la remplacer par un procès."
         }
       ]
+    },
+    {
+      "numero": 28,
+      "date": "2026-09-10",
+      "slug": "juillet-1830",
+      "titre": "Juillet 1830",
+      "chapo": "27-29 juillet 1830 : trois jours de barricades chassent Charles X, et la monarchie doit désormais tenir sa couronne de la nation.",
+      "periode": "Restauration · juillet-août 1830",
+      "recit": [
+        "Quinze ans après Waterloo, la France vit sous la Charte de 1814 : un roi qui gouverne, des chambres élues par les plus riches. Charles X, roi depuis 1824, regrette l'Ancien Régime. En 1829, il appelle au pouvoir le prince de Polignac, chef des ultras <span class=\"glose\">(royalistes intransigeants)</span>. En mars 1830, 221 députés lui refusent leur confiance ; il dissout, les électeurs renforcent l'opposition.",
+        "Fort de la prise d'Alger, le 5 juillet, le roi signe le 25 juillet quatre ordonnances qui suspendent la liberté de la presse, dissolvent la nouvelle Chambre et restreignent le corps électoral. Les journalistes, Adolphe Thiers en tête, dénoncent un coup d'État ; Paris se couvre de barricades. Les 27, 28 et 29 juillet, les Trois Glorieuses, l'armée perd la capitale ; plus d'un millier de morts. Contre les républicains, les députés libéraux et La Fayette, vieux héros de 1789, choisissent le cousin du roi, Louis-Philippe d'Orléans. Charles X abdique le 2 août et part en exil ; le 9, Louis-Philippe devient « roi des Français ».",
+        "La Charte révisée n'est plus octroyée mais acceptée : le roi tient sa couronne d'un pacte avec la nation, non plus de Dieu. Le catholicisme cesse d'être religion d'État, la censure est abolie, le tricolore revient. En 1831, le cens <span class=\"glose\">(montant d'impôt qui ouvre le droit de vote)</span> baisse et la pairie cesse d'être héréditaire. Le pouvoir passe aux notables, pas aux combattants des barricades : on parlera de révolution confisquée. L'onde gagne l'Europe : la Belgique conquiert son indépendance, la Pologne s'insurge et est écrasée.",
+        "La monarchie de Juillet tombe en 1848, mais 1830 a coupé les royalistes en deux : légitimistes fidèles au petit-fils de Charles X et orléanistes. En 1873, quand une Assemblée monarchiste pouvait rendre le trône à ce petit-fils devenu comte de Chambord, il refuse le drapeau tricolore, et la République resta. Longtemps tenue pour une péripétie, la révolution de Juillet est pour Maurice Agulhon la vraie fin de la contre-révolution."
+      ],
+      "chute": "De juillet 1830 datent pour de bon le drapeau tricolore et la fin de tout pouvoir fondé sur le seul droit divin.",
+      "ressources": [
+        {
+          "titre": "« 27-29 juillet 1830 : l'insurrection des Trois Glorieuses » — Assemblée nationale",
+          "url": "https://www.assemblee-nationale.fr/dyn/histoire-et-patrimoine/monarchie-de-juillet/l-insurrection-des-trois-glorieuses",
+          "note": "Un article de fond bref et clair, de l'adresse des 221 au serment du 9 août, vu depuis la Chambre qui a fait le nouveau roi."
+        },
+        {
+          "titre": "Charte constitutionnelle du 14 août 1830 — Wikisource",
+          "url": "https://fr.wikisource.org/wiki/Charte_constitutionnelle_du_14_ao%C3%BBt_1830",
+          "note": "Le texte intégral du pacte de 1830 : on y lit l'article 7, « La censure ne pourra jamais être rétablie », et l'article 67, qui rend la cocarde tricolore."
+        },
+        {
+          "titre": "« Les Trois Glorieuses de juillet 1830 : la presse à l'origine de la révolution » — RetroNews (podcast)",
+          "url": "https://www.retronews.fr/faits-divers/podcast/2025/06/30/les-trois-glorieuses-de-juillet-1830-la-presse-lorigine-de-la-revolution",
+          "note": "Les trois journées racontées par les journaux du temps, puis commentées par l'historien Emmanuel Fureix : pourquoi une révolution est partie des rédactions."
+        },
+        {
+          "titre": "Maurice Agulhon, « La Révolution de 1830 dans l'histoire du XIX<sup>e</sup> siècle français », <i>Annales historiques de la Révolution française</i>, 1980 — Persée",
+          "url": "https://www.persee.fr/doc/ahrf_0003-4436_1980_num_242_1_4225",
+          "note": "Un grand historien du XIX<sup>e</sup> siècle plaide pour faire de 1830 un vrai tournant, et non une parenthèse entre 1815 et 1848."
+        },
+        {
+          "titre": "Pierre Rosanvallon, <i>La Monarchie impossible. Les Chartes de 1814 et de 1830</i>, Fayard, 1996",
+          "url": null,
+          "note": "Pourquoi la monarchie constitutionnelle, qui a réussi ailleurs en Europe, a échoué trois fois en France : la lecture de référence des deux Chartes."
+        }
+      ]
     }
   ],
   "manquants": []
